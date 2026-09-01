@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>My Merged Calendar Feed</title>
-    <link>Bay Port|https://bayport.hssdschools.org/calendar/calendar_356.ics</link>
+    <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 18:47:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:55:49 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Golf @ Ashwaubenon High School — Mon Aug 31, 2026 01:00 PM CDT</title>
       <description>Location:  2391 S Ridge Rd, Ashwaubenon WI  54304 | Ends: Mon Aug 31, 2026 06:00 PM CDT | Sport: Golf
@@ -15,6 +15,12 @@ Subsite: Hilly Haven Golf Course
 </description>
       <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-102337280</guid>
+    </item>
+    <item>
+      <title>[Bay Port] 9th grade 1st day — Mon Aug 31, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365235@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Tennis vs Manitowoc Lincoln High School - JV1 — Tue Sep 01, 2026 04:00 PM CDT</title>
@@ -48,6 +54,18 @@ Subsite: Acuity Fieldhouse
 </description>
       <pubDate>Tue, 01 Sep 2026 22:30:00 +0000</pubDate>
       <guid isPermaLink="false">GP-100058192</guid>
+    </item>
+    <item>
+      <title>[Bay Port] 9-12 1st Day — Tue Sep 01, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17364735@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] 9-12 1st Day — Tue Sep 01, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365625@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Volleyball @ Fond Du Lac High School — Tue Sep 01, 2026 07:00 PM CDT</title>
@@ -148,6 +166,12 @@ Subsite: Soccer Complex - Varsity Field
       <guid isPermaLink="false">GP-99589302</guid>
     </item>
     <item>
+      <title>[Bay Port] Picture Day — Thu Sep 03, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365465@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Soccer @ D.C. Everest High School — Thu Sep 03, 2026 07:00 PM CDT</title>
       <description>Location:  9302 Schofield Ave, Schofield Wisconsin  54476 | Ends: Thu Sep 03, 2026 07:30 PM CDT | Sport: Soccer
 Level: Boys Varsity
@@ -179,6 +203,12 @@ Subsite: Triton Center Main
 </description>
       <pubDate>Sat, 05 Sep 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99662213</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Labor Day - No School — Sun Sep 06, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365461@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Golf @ Sheboygan North High School — Tue Sep 08, 2026 09:30 AM CDT</title>
@@ -610,17 +640,6 @@ Subsite: Autumn Ridge Golf Course
       <guid isPermaLink="false">GP-102677903</guid>
     </item>
     <item>
-      <title>[Sports] Girls JV Tennis @ Green Bay Southwest High School - JV1 — Tue Sep 15, 2026 04:00 PM CDT</title>
-      <description>Location:  1331 Packerland Drive, Green Bay WI  54304 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls JV
-Team: Bay Port High School - JV1
-Site: Green Bay Southwest High
-Subsite: Southwest Tennis Courts
-</description>
-      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99591990</guid>
-    </item>
-    <item>
       <title>[Sports] Girls JV Tennis vs Appleton North High School - JV2 — Tue Sep 15, 2026 04:00 PM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
 Level: Girls JV
@@ -630,6 +649,17 @@ Subsite: Tennis Courts
 </description>
       <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101696314</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Tennis @ Green Bay Southwest High School - JV1 — Tue Sep 15, 2026 04:00 PM CDT</title>
+      <description>Location:  1331 Packerland Drive, Green Bay WI  54304 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
+Level: Girls JV
+Team: Bay Port High School - JV1
+Site: Green Bay Southwest High
+Subsite: Southwest Tennis Courts
+</description>
+      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99591990</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Tennis @ Green Bay Southwest High School — Tue Sep 15, 2026 04:00 PM CDT</title>
@@ -1423,6 +1453,16 @@ Subsite: Stadium
       <guid isPermaLink="false">GP-99589916</guid>
     </item>
     <item>
+      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
+Level: Boys Varsity
+Team: NDA Boys Volleyball Co-op
+Site: TBA
+</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100489361</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Volleyball @ Kimberly High School — Tue Sep 29, 2026 07:00 PM CDT</title>
       <description>Location:  1662 E Kennedy Ave, Kimberly WI  54136 | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
 Level: Boys Varsity
@@ -1432,16 +1472,6 @@ Subsite: Gym
 </description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-100043454</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
-Level: Boys Varsity
-Team: NDA Boys Volleyball Co-op
-Site: TBA
-</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100489361</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Volleyball vs Green Bay Southwest High School — Tue Sep 29, 2026 07:00 PM CDT</title>
@@ -1554,6 +1584,12 @@ Subsite: Gym - Court 1
       <guid isPermaLink="false">GP-99592698</guid>
     </item>
     <item>
+      <title>[Bay Port] Homecoming Football Game — Fri Oct 02, 2026 02:00 PM CDT</title>
+      <description>Ends: Fri Oct 02, 2026 04:00 PM CDT</description>
+      <pubDate>Fri, 02 Oct 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17364635@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Football vs West De Pere High School — Fri Oct 02, 2026 07:00 PM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Oct 02, 2026 09:00 PM CDT | Sport: Football
 Level: Boys Varsity
@@ -1576,6 +1612,12 @@ Subsite: Aquatic Center (Fond du Lac)
       <guid isPermaLink="false">GP-102801264</guid>
     </item>
     <item>
+      <title>[Bay Port] Homecoming Dance — Sat Oct 03, 2026 03:00 PM CDT</title>
+      <description>Ends: Sat Oct 03, 2026 06:00 PM CDT</description>
+      <pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365183@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Girls Varsity Tennis @ Appleton North High School — Mon Oct 05, 2026 09:00 AM CDT</title>
       <description>Location:  5000 North Ballard Road, Appleton WI  54913 | Ends: Mon Oct 05, 2026 01:00 PM CDT | Sport: Tennis
 Level: Girls Varsity
@@ -1585,6 +1627,12 @@ Subsite: Tennis Courts
 </description>
       <pubDate>Mon, 05 Oct 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-102695802</guid>
+    </item>
+    <item>
+      <title>[Bay Port] BP Orchestra Concert — Mon Oct 05, 2026 02:00 PM CDT</title>
+      <description>Location: PAC | Ends: Mon Oct 05, 2026 03:30 PM CDT</description>
+      <pubDate>Mon, 05 Oct 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365639@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Football @ West De Pere High School — Mon Oct 05, 2026 05:00 PM CDT</title>
@@ -1749,6 +1797,12 @@ Subsite: Gym - Court 4
 </description>
       <pubDate>Thu, 08 Oct 2026 22:30:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99592405</guid>
+    </item>
+    <item>
+      <title>[Bay Port] No School - Staff only PD Day — Thu Oct 08, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365647@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Soccer vs Notre Dame de la Baie Academy High School — Thu Oct 08, 2026 07:00 PM CDT</title>
@@ -2048,6 +2102,12 @@ Subsite: Main Turf Field
       <guid isPermaLink="false">GP-99589936</guid>
     </item>
     <item>
+      <title>[Bay Port] Picture Retakes — Thu Oct 15, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365016@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Volleyball vs Appleton East High School — Thu Oct 15, 2026 07:00 PM CDT</title>
       <description>Location:  610 Maryhill Dr, Green Bay WI  54303 | Ends: Thu Oct 15, 2026 09:00 PM CDT | Sport: Volleyball
 Level: Boys Varsity
@@ -2112,6 +2172,42 @@ Subsite: Lineville Pool
 </description>
       <pubDate>Tue, 20 Oct 2026 22:30:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99591542</guid>
+    </item>
+    <item>
+      <title>[Bay Port] P/T Conferences — Thu Oct 22, 2026 11:30 AM CDT</title>
+      <description>Ends: Thu Oct 22, 2026 02:00 PM CDT</description>
+      <pubDate>Thu, 22 Oct 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">17364811@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Fall Play — Thu Oct 22, 2026 02:00 PM CDT</title>
+      <description>Ends: Thu Oct 22, 2026 04:00 PM CDT</description>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365631@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Fall Play — Fri Oct 23, 2026 02:00 PM CDT</title>
+      <description>Ends: Fri Oct 23, 2026 04:00 PM CDT</description>
+      <pubDate>Fri, 23 Oct 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365643@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Fall Play — Sat Oct 24, 2026 02:00 PM CDT</title>
+      <description>Ends: Sat Oct 24, 2026 04:00 PM CDT</description>
+      <pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365139@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] P/T Conferences — Mon Oct 26, 2026 11:30 AM CDT</title>
+      <description>Ends: Mon Oct 26, 2026 02:00 PM CDT</description>
+      <pubDate>Mon, 26 Oct 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">17365544@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] No School — Thu Oct 29, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17365346@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Swimming vs Ashwaubenon High School — Sat Oct 31, 2026 09:00 AM CDT</title>
