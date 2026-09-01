@@ -18,6 +18,9 @@ import os
 import sys
 import hashlib
 from datetime import datetime, timedelta, date, timezone
+from zoneinfo import ZoneInfo
+
+CENTRAL = ZoneInfo("America/Chicago")  # auto-adjusts for CST/CDT
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
 
@@ -119,12 +122,14 @@ def build_rss(events):
 
     items_xml = []
     for e in events:
-        title = f"[{e['label']}] {e['summary']} — {e['start'].strftime('%a %b %d, %Y %I:%M %p UTC')}"
+        start_central = e["start"].astimezone(CENTRAL)
+        title = f"[{e['label']}] {e['summary']} — {start_central.strftime('%a %b %d, %Y %I:%M %p %Z')}"
         desc_parts = []
         if e["location"]:
             desc_parts.append(f"Location: {e['location']}")
         if e["end"]:
-            desc_parts.append(f"Ends: {e['end'].strftime('%a %b %d, %Y %I:%M %p UTC')}")
+            end_central = e["end"].astimezone(CENTRAL)
+            desc_parts.append(f"Ends: {end_central.strftime('%a %b %d, %Y %I:%M %p %Z')}")
         if e["description"]:
             desc_parts.append(e["description"])
         description = " | ".join(desc_parts) if desc_parts else "No additional details."
