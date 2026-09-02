@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 18:55:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:23:02 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Golf @ Ashwaubenon High School — Mon Aug 31, 2026 01:00 PM CDT</title>
       <description>Location:  2391 S Ridge Rd, Ashwaubenon WI  54304 | Ends: Mon Aug 31, 2026 06:00 PM CDT | Sport: Golf
@@ -15,12 +15,6 @@ Subsite: Hilly Haven Golf Course
 </description>
       <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-102337280</guid>
-    </item>
-    <item>
-      <title>[Bay Port] 9th grade 1st day — Mon Aug 31, 2026 07:00 PM CDT</title>
-      <description>No additional details.</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17365235@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Tennis vs Manitowoc Lincoln High School - JV1 — Tue Sep 01, 2026 04:00 PM CDT</title>
@@ -640,17 +634,6 @@ Subsite: Autumn Ridge Golf Course
       <guid isPermaLink="false">GP-102677903</guid>
     </item>
     <item>
-      <title>[Sports] Girls JV Tennis vs Appleton North High School - JV2 — Tue Sep 15, 2026 04:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls JV
-Team: Bay Port High School - JV2
-Site: Bay Port High School
-Subsite: Tennis Courts
-</description>
-      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101696314</guid>
-    </item>
-    <item>
       <title>[Sports] Girls JV Tennis @ Green Bay Southwest High School - JV1 — Tue Sep 15, 2026 04:00 PM CDT</title>
       <description>Location:  1331 Packerland Drive, Green Bay WI  54304 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
 Level: Girls JV
@@ -660,6 +643,17 @@ Subsite: Southwest Tennis Courts
 </description>
       <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99591990</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Tennis vs Appleton North High School - JV2 — Tue Sep 15, 2026 04:00 PM CDT</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
+Level: Girls JV
+Team: Bay Port High School - JV2
+Site: Bay Port High School
+Subsite: Tennis Courts
+</description>
+      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101696314</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Tennis @ Green Bay Southwest High School — Tue Sep 15, 2026 04:00 PM CDT</title>
