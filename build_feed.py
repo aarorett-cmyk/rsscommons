@@ -27,7 +27,7 @@ from xml.sax.saxutils import escape
 import requests
 from icalendar import Calendar
 
-LOOKBACK_DAYS = 3
+LOOKBACK_DAYS = 0
 LOOKAHEAD_DAYS = 60
 OUTPUT_PATH = "docs/feed.xml"
 
