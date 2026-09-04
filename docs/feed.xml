@@ -4,18 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 12:23:08 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Girls Varsity Golf @ Ashwaubenon High School — Mon Aug 31, 2026 01:00 PM CDT</title>
-      <description>Location:  2391 S Ridge Rd, Ashwaubenon WI  54304 | Ends: Mon Aug 31, 2026 06:00 PM CDT | Sport: Golf
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Ashwaubenon High School
-Subsite: Hilly Haven Golf Course
-</description>
-      <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-102337280</guid>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 12:22:13 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls JV Tennis vs Manitowoc Lincoln High School - JV1 — Tue Sep 01, 2026 04:00 PM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 01, 2026 06:00 PM CDT | Sport: Tennis
@@ -138,7 +127,7 @@ Subsite: Football Stadium
     </item>
     <item>
       <title>[Sports] Boys JV Soccer @ D.C. Everest High School — Thu Sep 03, 2026 05:00 PM CDT</title>
-      <description>Location:  9302 Schofield Ave, Schofield Wisconsin  54476 | Ends: Thu Sep 03, 2026 07:00 PM CDT | Sport: Soccer
+      <description>Location:  9302 Schofield Ave, Schofield Wisconsin  54476 | Ends: Thu Sep 03, 2026 06:30 PM CDT | Sport: Soccer
 Level: Boys JV
 Team: Bay Port High School
 Site: D.C. Everest Middle School
@@ -622,17 +611,6 @@ Subsite: Autumn Ridge Golf Course
       <guid isPermaLink="false">GP-102677903</guid>
     </item>
     <item>
-      <title>[Sports] Girls JV Tennis @ Green Bay Southwest High School - JV1 — Tue Sep 15, 2026 04:00 PM CDT</title>
-      <description>Location:  1331 Packerland Drive, Green Bay WI  54304 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls JV
-Team: Bay Port High School - JV1
-Site: Green Bay Southwest High
-Subsite: Southwest Tennis Courts
-</description>
-      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99591990</guid>
-    </item>
-    <item>
       <title>[Sports] Girls JV Tennis vs Appleton North High School - JV2 — Tue Sep 15, 2026 04:00 PM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
 Level: Girls JV
@@ -642,6 +620,17 @@ Subsite: Tennis Courts
 </description>
       <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101696314</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Tennis @ Green Bay Southwest High School - JV1 — Tue Sep 15, 2026 04:00 PM CDT</title>
+      <description>Location:  1331 Packerland Drive, Green Bay WI  54304 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
+Level: Girls JV
+Team: Bay Port High School - JV1
+Site: Green Bay Southwest High
+Subsite: Southwest Tennis Courts
+</description>
+      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99591990</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Tennis @ Green Bay Southwest High School — Tue Sep 15, 2026 04:00 PM CDT</title>
@@ -1435,16 +1424,6 @@ Subsite: Stadium
       <guid isPermaLink="false">GP-99589916</guid>
     </item>
     <item>
-      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
-Level: Boys Varsity
-Team: NDA Boys Volleyball Co-op
-Site: TBA
-</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100489361</guid>
-    </item>
-    <item>
       <title>[Sports] Boys Varsity Volleyball @ Kimberly High School — Tue Sep 29, 2026 07:00 PM CDT</title>
       <description>Location:  1662 E Kennedy Ave, Kimberly WI  54136 | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
 Level: Boys Varsity
@@ -1454,6 +1433,16 @@ Subsite: Gym
 </description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-100043454</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
+Level: Boys Varsity
+Team: NDA Boys Volleyball Co-op
+Site: TBA
+</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100489361</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Volleyball vs Green Bay Southwest High School — Tue Sep 29, 2026 07:00 PM CDT</title>
