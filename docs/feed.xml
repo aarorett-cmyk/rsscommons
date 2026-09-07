@@ -4,13 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Sun, 06 Sep 2026 12:20:30 +0000</lastBuildDate>
-    <item>
-      <title>[Bay Port] Labor Day - No School — Sun Sep 06, 2026 07:00 PM CDT</title>
-      <description>No additional details.</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17365461@bayport.hssdschools.org</guid>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 12:23:02 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Golf @ Sheboygan North High School — Tue Sep 08, 2026 09:30 AM CDT</title>
       <description>Location:  1111 W. Riverside Drive, Kohler WI  53044 | Ends: Tue Sep 08, 2026 05:30 PM CDT | Sport: Golf
@@ -1254,16 +1248,6 @@ Subsite: Stadium
       <guid isPermaLink="false">GP-99589916</guid>
     </item>
     <item>
-      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
-Level: Boys Varsity
-Team: NDA Boys Volleyball Co-op
-Site: TBA
-</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100489361</guid>
-    </item>
-    <item>
       <title>[Sports] Boys Varsity Volleyball @ Kimberly High School — Tue Sep 29, 2026 07:00 PM CDT</title>
       <description>Location:  1662 E Kennedy Ave, Kimberly WI  54136 | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
 Level: Boys Varsity
@@ -1273,6 +1257,16 @@ Subsite: Gym
 </description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-100043454</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
+Level: Boys Varsity
+Team: NDA Boys Volleyball Co-op
+Site: TBA
+</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100489361</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Volleyball vs Green Bay Southwest High School — Tue Sep 29, 2026 07:00 PM CDT</title>
