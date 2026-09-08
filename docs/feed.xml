@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Mon, 07 Sep 2026 12:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:23:21 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Golf @ Sheboygan North High School — Tue Sep 08, 2026 09:30 AM CDT</title>
       <description>Location:  1111 W. Riverside Drive, Kohler WI  53044 | Ends: Tue Sep 08, 2026 05:30 PM CDT | Sport: Golf
@@ -2014,6 +2014,12 @@ Subsite: Lineville Pool
 </description>
       <pubDate>Sat, 31 Oct 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99591545</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Craft Fair — Sat Nov 07, 2026 03:00 AM CST</title>
+      <description>Ends: Sat Nov 07, 2026 09:00 AM CST</description>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17364906@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
