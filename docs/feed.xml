@@ -4,46 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Wed, 09 Sep 2026 12:22:59 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Girls JV Golf @ West De Pere High School - JV1 — Wed Sep 09, 2026 01:00 PM CDT</title>
-      <description>Location:  3850 Mid Valley Drive, DePere WI  54115 | Ends: Wed Sep 09, 2026 05:00 PM CDT | Sport: Golf
-Level: Girls JV
-Team: Bay Port High School - JV2
-Site: Mid Vallee Golf Course
-Subsite: Golf Course
-</description>
-      <pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-102533262</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV Tennis vs Sheboygan North High School — Wed Sep 09, 2026 04:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Wed Sep 09, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls JV
-Team: Bay Port High School - JV1
-Site: Bay Port High School
-Subsite: Tennis Courts
-</description>
-      <pubDate>Wed, 09 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99591977</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Tennis vs Sheboygan North High School — Wed Sep 09, 2026 04:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Wed Sep 09, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Tennis Courts
-</description>
-      <pubDate>Wed, 09 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592054</guid>
-    </item>
-    <item>
-      <title>[Bay Port] Pirate Time Homeroom — Wed Sep 09, 2026 07:00 PM CDT</title>
-      <description>No additional details.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17500573@bayport.hssdschools.org</guid>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 12:23:02 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Golf @ De Pere High School — Thu Sep 10, 2026 02:00 PM CDT</title>
       <description>Location:  3149 Dickinson Road, De Pere WI  54115 | Ends: Thu Sep 10, 2026 07:00 PM CDT | Sport: Golf
@@ -342,17 +303,6 @@ Subsite: Autumn Ridge Golf Course
       <guid isPermaLink="false">GP-102677903</guid>
     </item>
     <item>
-      <title>[Sports] Girls JV Tennis vs Appleton North High School - JV2 — Tue Sep 15, 2026 04:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls JV
-Team: Bay Port High School - JV2
-Site: Bay Port High School
-Subsite: Tennis Courts
-</description>
-      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101696314</guid>
-    </item>
-    <item>
       <title>[Sports] Girls JV Tennis @ Green Bay Southwest High School - JV1 — Tue Sep 15, 2026 04:00 PM CDT</title>
       <description>Location:  1331 Packerland Drive, Green Bay WI  54304 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
 Level: Girls JV
@@ -362,6 +312,17 @@ Subsite: Southwest Tennis Courts
 </description>
       <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99591990</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Tennis vs Appleton North High School - JV2 — Tue Sep 15, 2026 04:00 PM CDT</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
+Level: Girls JV
+Team: Bay Port High School - JV2
+Site: Bay Port High School
+Subsite: Tennis Courts
+</description>
+      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101696314</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Tennis @ Green Bay Southwest High School — Tue Sep 15, 2026 04:00 PM CDT</title>
@@ -1185,6 +1146,16 @@ Subsite: Stadium
       <guid isPermaLink="false">GP-99589916</guid>
     </item>
     <item>
+      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
+Level: Boys Varsity
+Team: NDA Boys Volleyball Co-op
+Site: TBA
+</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100489361</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Volleyball @ Kimberly High School — Tue Sep 29, 2026 07:00 PM CDT</title>
       <description>Location:  1662 E Kennedy Ave, Kimberly WI  54136 | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
 Level: Boys Varsity
@@ -1194,16 +1165,6 @@ Subsite: Gym
 </description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-100043454</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
-Level: Boys Varsity
-Team: NDA Boys Volleyball Co-op
-Site: TBA
-</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100489361</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Volleyball vs Green Bay Southwest High School — Tue Sep 29, 2026 07:00 PM CDT</title>
@@ -1450,10 +1411,10 @@ Site: XJFK Fieldhouse @ Manitowoc Lincoln High School
     </item>
     <item>
       <title>[Sports] Girls JV2 Volleyball @ Manitowoc Lincoln High School — Tue Oct 06, 2026 05:30 PM CDT</title>
-      <description>Location:  1617 S 9th St, Manitowoc WI  54220 | Ends: Tue Oct 06, 2026 07:00 PM CDT | Sport: Volleyball
+      <description>Location:  1617 S 9th Street, Manitowoc WI  54220 | Ends: Tue Oct 06, 2026 07:00 PM CDT | Sport: Volleyball
 Level: Girls JV2
 Team: Bay Port High School
-Site: XJFK Fieldhouse @ Manitowoc Lincoln High School 
+Site: Manitowoc Lincoln High School-JFK
 Subsite: JFK Fieldhouse West
 </description>
       <pubDate>Tue, 06 Oct 2026 22:30:00 +0000</pubDate>
