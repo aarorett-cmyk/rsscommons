@@ -4,106 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Thu, 10 Sep 2026 12:23:02 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Girls Varsity Golf @ De Pere High School — Thu Sep 10, 2026 02:00 PM CDT</title>
-      <description>Location:  3149 Dickinson Road, De Pere WI  54115 | Ends: Thu Sep 10, 2026 07:00 PM CDT | Sport: Golf
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Ledgeview Golf Course
-Subsite: Ledgeview Golf Course
-</description>
-      <pubDate>Thu, 10 Sep 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-102337310</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV Tennis @ De Pere High School — Thu Sep 10, 2026 04:00 PM CDT</title>
-      <description>Location:  1700 Chicago Street, De Pere WI  54115 | Ends: Thu Sep 10, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls JV
-Team: Bay Port High School - JV1
-Site: De Pere High School
-Subsite: Tennis Courts
-</description>
-      <pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99591983</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Tennis @ De Pere High School — Thu Sep 10, 2026 04:00 PM CDT</title>
-      <description>Location:  1700 Chicago Street, De Pere WI  54115 | Ends: Thu Sep 10, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls Varsity
-Team: Bay Port High School
-Site: De Pere High School
-Subsite: Tennis Courts
-</description>
-      <pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592060</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Soccer @ De Pere High School - Junior Varsity — Thu Sep 10, 2026 04:30 PM CDT</title>
-      <description>Location:  1700 Chicago Street, De Pere WI  54115 | Ends: Thu Sep 10, 2026 06:30 PM CDT | Sport: Soccer
-Level: Boys JV
-Team: Bay Port High School
-Site: De Pere High School
-Subsite: Cloud Family Field
-</description>
-      <pubDate>Thu, 10 Sep 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99850337</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Swimming @ Appleton North High School — Thu Sep 10, 2026 04:30 PM CDT</title>
-      <description>Location:  5000 North Ballard Road, Appleton WI  54913 | Ends: Thu Sep 10, 2026 07:30 PM CDT | Sport: Swimming
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Appleton North High School
-Subsite: Natatorium
-</description>
-      <pubDate>Thu, 10 Sep 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-102771108</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV Volleyball @ Pulaski High School - JV1 — Thu Sep 10, 2026 05:30 PM CDT</title>
-      <description>Location:  1040 S Saint Augustine St, Pulaski WI  54162 | Ends: Thu Sep 10, 2026 07:00 PM CDT | Sport: Volleyball
-Level: Girls JV
-Team: Bay Port High School
-Site: Pulaski High School
-Subsite: Pulaski High School
-</description>
-      <pubDate>Thu, 10 Sep 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592334</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV2 Volleyball @ Pulaski High School — Thu Sep 10, 2026 05:30 PM CDT</title>
-      <description>Location:  1040 S Saint Augustine St, Pulaski WI  54162 | Ends: Thu Sep 10, 2026 07:00 PM CDT | Sport: Volleyball
-Level: Girls JV2
-Team: Bay Port High School
-Site: Pulaski High School
-Subsite: Pulaski High School - Fieldhouse Court 4
-</description>
-      <pubDate>Thu, 10 Sep 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592329</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Soccer @ De Pere High School — Thu Sep 10, 2026 06:30 PM CDT</title>
-      <description>Location:  1700 Chicago Street, De Pere WI  54115 | Ends: Thu Sep 10, 2026 08:30 PM CDT | Sport: Soccer
-Level: Boys Varsity
-Team: Bay Port High School
-Site: De Pere High School
-Subsite: Cloud Family Field
-</description>
-      <pubDate>Thu, 10 Sep 2026 23:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99850340</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Volleyball @ Pulaski High School — Thu Sep 10, 2026 07:00 PM CDT</title>
-      <description>Location:  1040 S Saint Augustine St, Pulaski WI  54162 | Ends: Thu Sep 10, 2026 09:00 PM CDT | Sport: Volleyball
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Pulaski High School
-Subsite: Pulaski High School
-</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592671</guid>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 12:22:57 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Tennis vs Wausau West High School — Fri Sep 11, 2026 09:00 AM CDT</title>
       <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Fri Sep 11, 2026 11:00 AM CDT | Sport: Tennis
@@ -292,6 +193,17 @@ Subsite: Fieldhouse Main Court
       <guid isPermaLink="false">GP-101672760</guid>
     </item>
     <item>
+      <title>[Sports] Boys JV Football vs De Pere High School — Mon Sep 14, 2026 05:15 PM CDT</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Mon Sep 14, 2026 07:15 PM CDT | Sport: Football
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Bay Port High School
+Subsite: Stadium
+</description>
+      <pubDate>Mon, 14 Sep 2026 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-103901816</guid>
+    </item>
+    <item>
       <title>[Sports] Girls JV Golf @ Manitowoc Lincoln High School - JV1 — Tue Sep 15, 2026 01:00 PM CDT</title>
       <description>Location:  1 Straight Dr, Valders WI  54245 | Ends: Tue Sep 15, 2026 05:00 PM CDT | Sport: Golf
 Level: Girls JV
@@ -303,17 +215,6 @@ Subsite: Autumn Ridge Golf Course
       <guid isPermaLink="false">GP-102677903</guid>
     </item>
     <item>
-      <title>[Sports] Girls JV Tennis @ Green Bay Southwest High School - JV1 — Tue Sep 15, 2026 04:00 PM CDT</title>
-      <description>Location:  1331 Packerland Drive, Green Bay WI  54304 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls JV
-Team: Bay Port High School - JV1
-Site: Green Bay Southwest High
-Subsite: Southwest Tennis Courts
-</description>
-      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99591990</guid>
-    </item>
-    <item>
       <title>[Sports] Girls JV Tennis vs Appleton North High School - JV2 — Tue Sep 15, 2026 04:00 PM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
 Level: Girls JV
@@ -323,6 +224,17 @@ Subsite: Tennis Courts
 </description>
       <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101696314</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Tennis @ Green Bay Southwest High School - JV1 — Tue Sep 15, 2026 04:00 PM CDT</title>
+      <description>Location:  1331 Packerland Drive, Green Bay WI  54304 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
+Level: Girls JV
+Team: Bay Port High School - JV1
+Site: Green Bay Southwest High
+Subsite: Southwest Tennis Courts
+</description>
+      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99591990</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Tennis @ Green Bay Southwest High School — Tue Sep 15, 2026 04:00 PM CDT</title>
@@ -612,17 +524,6 @@ Subsite: Rolling Meadows Golf Course
       <guid isPermaLink="false">GP-102887754</guid>
     </item>
     <item>
-      <title>[Sports] Girls Varsity Swimming @ Notre Dame de la Baie Academy High School — Sat Sep 19, 2026 10:00 AM CDT</title>
-      <description>Location:   | Ends: Sat Sep 19, 2026 01:00 PM CDT | Sport: Swimming
-Level: Girls Varsity
-Team: Bay Port High School
-Site: St. Norbert College -Mulva Family Swim Facility
-Subsite: St. Norbert College -Mulva Family Swim Facility
-</description>
-      <pubDate>Sat, 19 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100901010</guid>
-    </item>
-    <item>
       <title>[Sports] Boys JV Soccer @ Kimberly High School — Sat Sep 19, 2026 11:00 AM CDT</title>
       <description>Location:  545 S John St, Kimberly WI  54136 | Ends: Sat Sep 19, 2026 01:00 PM CDT | Sport: Soccer
 Level: Boys JV
@@ -643,6 +544,17 @@ Subsite: Papermaker Pitch
 </description>
       <pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-98844429</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Swimming @ Notre Dame de la Baie Academy High School — Sat Sep 19, 2026 12:15 PM CDT</title>
+      <description>Location:   | Ends: Sat Sep 19, 2026 03:15 PM CDT | Sport: Swimming
+Level: Girls Varsity
+Team: Bay Port High School
+Site: St. Norbert College -Mulva Family Swim Facility
+Subsite: St. Norbert College -Mulva Family Swim Facility
+</description>
+      <pubDate>Sat, 19 Sep 2026 17:15:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100901010</guid>
     </item>
     <item>
       <title>[Sports] Girls JV2 Volleyball — Sat Sep 19, 2026 08:00 PM CDT</title>
