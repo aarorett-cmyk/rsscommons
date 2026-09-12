@@ -4,73 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Fri, 11 Sep 2026 12:22:57 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Girls Varsity Tennis vs Wausau West High School — Fri Sep 11, 2026 09:00 AM CDT</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Fri Sep 11, 2026 11:00 AM CDT | Sport: Tennis
-Level: Girls Varsity
-Team: Bay Port High School
-Site: TBA
-Subsite: TBA
-</description>
-      <pubDate>Fri, 11 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-103038704</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Football @ Green Bay Southwest High School — Fri Sep 11, 2026 07:00 PM CDT</title>
-      <description>Location:  1331 Packerland Drive, Green Bay WI  54304 | Ends: Fri Sep 11, 2026 09:00 PM CDT | Sport: Football
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Green Bay Southwest High
-Subsite: Southwest Stadium (Dahlin)
-</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99588182</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Cross Country @ Princeton High School — Fri Sep 11, 2026 07:45 PM CDT</title>
-      <description>Location:  Hwy 23/73 PO Box 147, Princeton Wisconsin  54968-0147 | Ends: Fri Sep 11, 2026 10:45 PM CDT | Sport: Cross Country
-Level: Boys JV
-Team: Bay Port High School - JV1
-Site: Princeton High School
-Subsite: Winagamie Country Club
-</description>
-      <pubDate>Sat, 12 Sep 2026 00:45:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101776606</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Cross Country @ Princeton High School — Fri Sep 11, 2026 07:45 PM CDT</title>
-      <description>Location:  Hwy 23/73 PO Box 147, Princeton Wisconsin  54968-0147 | Ends: Fri Sep 11, 2026 10:45 PM CDT | Sport: Cross Country
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Princeton High School
-Subsite: Winagamie Country Club
-</description>
-      <pubDate>Sat, 12 Sep 2026 00:45:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101773756</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV Cross Country @ Princeton High School — Fri Sep 11, 2026 07:45 PM CDT</title>
-      <description>Location:  Hwy 23/73 PO Box 147, Princeton Wisconsin  54968-0147 | Ends: Fri Sep 11, 2026 10:45 PM CDT | Sport: Cross Country
-Level: Girls JV
-Team: Bay Port High School - JV1
-Site: Princeton High School
-Subsite: Winagamie Country Club
-</description>
-      <pubDate>Sat, 12 Sep 2026 00:45:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101776703</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Cross Country @ Princeton High School — Fri Sep 11, 2026 07:45 PM CDT</title>
-      <description>Location:  Hwy 23/73 PO Box 147, Princeton Wisconsin  54968-0147 | Ends: Fri Sep 11, 2026 10:45 PM CDT | Sport: Cross Country
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Princeton High School
-Subsite: Winagamie Country Club
-</description>
-      <pubDate>Sat, 12 Sep 2026 00:45:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101773710</guid>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 12:20:21 +0000</lastBuildDate>
     <item>
       <title>[Sports] Boys Varsity Volleyball @ Westosha Central High School — Sat Sep 12, 2026 08:30 AM CDT</title>
       <description>Location:  24617 75th St., Salem WI  53168 | Ends: Sat Sep 12, 2026 01:30 PM CDT | Sport: Volleyball
@@ -215,17 +149,6 @@ Subsite: Autumn Ridge Golf Course
       <guid isPermaLink="false">GP-102677903</guid>
     </item>
     <item>
-      <title>[Sports] Girls JV Tennis vs Appleton North High School - JV2 — Tue Sep 15, 2026 04:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls JV
-Team: Bay Port High School - JV2
-Site: Bay Port High School
-Subsite: Tennis Courts
-</description>
-      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101696314</guid>
-    </item>
-    <item>
       <title>[Sports] Girls JV Tennis @ Green Bay Southwest High School - JV1 — Tue Sep 15, 2026 04:00 PM CDT</title>
       <description>Location:  1331 Packerland Drive, Green Bay WI  54304 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
 Level: Girls JV
@@ -237,6 +160,17 @@ Subsite: Southwest Tennis Courts
       <guid isPermaLink="false">GP-99591990</guid>
     </item>
     <item>
+      <title>[Sports] Girls JV Tennis vs Appleton North High School - JV2 — Tue Sep 15, 2026 04:00 PM CDT</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
+Level: Girls JV
+Team: Bay Port High School - JV2
+Site: Bay Port High School
+Subsite: Tennis Courts
+</description>
+      <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101696314</guid>
+    </item>
+    <item>
       <title>[Sports] Girls Varsity Tennis @ Green Bay Southwest High School — Tue Sep 15, 2026 04:00 PM CDT</title>
       <description>Location:  1331 Packerland Drive, Green Bay WI  54304 | Ends: Tue Sep 15, 2026 06:00 PM CDT | Sport: Tennis
 Level: Girls Varsity
@@ -246,6 +180,17 @@ Subsite: Southwest Tennis Courts
 </description>
       <pubDate>Tue, 15 Sep 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99592066</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Football vs Notre Dame de la Baie Academy High School — Tue Sep 15, 2026 05:00 PM CDT</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 15, 2026 07:00 PM CDT | Sport: Football
+Level: Boys JV
+Team: Bay Port High School - JV3
+Site: Bay Port High School
+Subsite: Football Field 2
+</description>
+      <pubDate>Tue, 15 Sep 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-103938411</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Soccer vs West De Pere High School — Tue Sep 15, 2026 05:00 PM CDT</title>
@@ -1058,16 +1003,6 @@ Subsite: Stadium
       <guid isPermaLink="false">GP-99589916</guid>
     </item>
     <item>
-      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
-Level: Boys Varsity
-Team: NDA Boys Volleyball Co-op
-Site: TBA
-</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100489361</guid>
-    </item>
-    <item>
       <title>[Sports] Boys Varsity Volleyball @ Kimberly High School — Tue Sep 29, 2026 07:00 PM CDT</title>
       <description>Location:  1662 E Kennedy Ave, Kimberly WI  54136 | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
 Level: Boys Varsity
@@ -1077,6 +1012,16 @@ Subsite: Gym
 </description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-100043454</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
+Level: Boys Varsity
+Team: NDA Boys Volleyball Co-op
+Site: TBA
+</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100489361</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Volleyball vs Green Bay Southwest High School — Tue Sep 29, 2026 07:00 PM CDT</title>
@@ -1913,6 +1858,12 @@ Subsite: Pool
 </description>
       <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101252520</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Tue Nov 10, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17499907@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
