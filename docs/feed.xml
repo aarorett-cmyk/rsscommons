@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 12:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:23:16 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Golf @ Sheboygan North High School — Mon Sep 14, 2026 09:00 AM CDT</title>
       <description>Location:  W1943 County Road J, Sheboygan WI  53083 | Ends: Mon Sep 14, 2026 05:00 PM CDT | Sport: Golf
@@ -1793,6 +1793,12 @@ Subsite: Pool
       <description>No additional details.</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">17500385@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] No School - Staff Only PD Day — Thu Nov 12, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17500838@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
