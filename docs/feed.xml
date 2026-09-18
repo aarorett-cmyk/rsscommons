@@ -4,150 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 12:22:30 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Girls Varsity Golf @ Marinette School District — Thu Sep 17, 2026 09:00 AM CDT</title>
-      <description>Location:  2135 Pierce Ave, Marinette WI  54143 | Ends: Thu Sep 17, 2026 01:00 PM CDT | Sport: Golf
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Marinette High School
-Subsite: Little River Golf Course
-</description>
-      <pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-102986541</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Golf @ Sheboygan North High School — Thu Sep 17, 2026 01:00 PM CDT</title>
-      <description>Location:  W1943 County Road J, Sheboygan WI  53083 | Ends: Thu Sep 17, 2026 08:00 PM CDT | Sport: Golf
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Town and Country Golf Course
-Subsite: Town and Country Golf Course
-</description>
-      <pubDate>Thu, 17 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-102542015</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Cross Country vs Suring High School — Thu Sep 17, 2026 04:00 PM CDT</title>
-      <description>Location:  670 Hillcrest Heights, Howard WI  54313 | Ends: Thu Sep 17, 2026 06:00 PM CDT | Sport: Cross Country
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Meadowbrook Park
-Subsite: Meadowbrook Park
-</description>
-      <pubDate>Thu, 17 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99173612</guid>
-    </item>
-    <item>
-      <title>[Sports] Coed Varsity Soccer - Adapted @ Hortonville High School — Thu Sep 17, 2026 04:00 PM CDT</title>
-      <description>Location:  155 Warner St, Hortonville WI  54944 | Ends: Thu Sep 17, 2026 05:00 PM CDT | Sport: Soccer - Adapted
-Level: Coed Varsity
-Team: Bay Port High School
-Site: Hortonville High School
-Subsite: Auxiliary Gym
-</description>
-      <pubDate>Thu, 17 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-102486655</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV Tennis vs Green Bay Preble High School - JV1 — Thu Sep 17, 2026 04:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Thu Sep 17, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls JV
-Team: Bay Port High School - JV1
-Site: Bay Port High School
-Subsite: Tennis Courts
-</description>
-      <pubDate>Thu, 17 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99591993</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Cross Country vs Appleton North High School — Thu Sep 17, 2026 04:00 PM CDT</title>
-      <description>Location:  Meadowbrook Park 720 Hillcrest Hts, Green Bay WI  54313 | Ends: Thu Sep 17, 2026 06:00 PM CDT | Sport: Cross Country
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Meadowbrook Park
-Subsite: Meadowbrook Park
-</description>
-      <pubDate>Thu, 17 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101245944</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Tennis vs Green Bay Preble High School — Thu Sep 17, 2026 04:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Thu Sep 17, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Tennis Courts
-</description>
-      <pubDate>Thu, 17 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592069</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Soccer @ Wausau West High School — Thu Sep 17, 2026 05:00 PM CDT</title>
-      <description>Location:  1200 W Wausau Avenue, Wausau WI  54401 | Ends: Thu Sep 17, 2026 06:15 PM CDT | Sport: Soccer
-Level: Boys JV
-Team: Bay Port High School
-Site: Wausau West High School
-Subsite: Soccer Field SF1
-</description>
-      <pubDate>Thu, 17 Sep 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101062543</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV Volleyball @ Kaukauna High School — Thu Sep 17, 2026 05:30 PM CDT</title>
-      <description>Location:  1701 County Road CE, Kaukauna Wisconsin  54130-3916 | Ends: Thu Sep 17, 2026 07:00 PM CDT | Sport: Volleyball
-Level: Girls JV
-Team: Bay Port High School
-Site: Kaukauna High School
-Subsite: Main Gym
-</description>
-      <pubDate>Thu, 17 Sep 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-103984326</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV2 Volleyball @ Kaukauna High School — Thu Sep 17, 2026 05:30 PM CDT</title>
-      <description>Location:  1701 County Road CE, Kaukauna Wisconsin  54130-3916 | Ends: Thu Sep 17, 2026 07:00 PM CDT | Sport: Volleyball
-Level: Girls JV2
-Team: Bay Port High School
-Site: Kaukauna High School
-Subsite: Main Gym
-</description>
-      <pubDate>Thu, 17 Sep 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-103984516</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Football vs De Pere High School — Thu Sep 17, 2026 07:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Thu Sep 17, 2026 09:00 PM CDT | Sport: Football
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Stadium
-</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99588191</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Soccer @ Wausau West High School — Thu Sep 17, 2026 07:00 PM CDT</title>
-      <description>Location:  1200 W Wausau Avenue, Wausau WI  54401 | Ends: Thu Sep 17, 2026 07:30 PM CDT | Sport: Soccer
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Wausau West High School
-Subsite: Girard Johnson Turf Field &amp; Track
-</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101062516</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Volleyball @ Kaukauna High School — Thu Sep 17, 2026 07:00 PM CDT</title>
-      <description>Location:  1701 County Road CE, Kaukauna Wisconsin  54130-3916 | Ends: Thu Sep 17, 2026 08:30 PM CDT | Sport: Volleyball
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Kaukauna High School
-Subsite: Main Gym
-</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-98575820</guid>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 12:21:12 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Tennis vs Saint Thomas More High School — Fri Sep 18, 2026 10:00 AM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Sep 18, 2026 04:00 PM CDT | Sport: Tennis
@@ -158,6 +15,17 @@ Subsite: Tennis Courts
 </description>
       <pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-102510093</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Volleyball @ Homestead High School — Sat Sep 19, 2026 08:00 AM CDT</title>
+      <description>Location:  5000 W Mequon Rd, Mequon WI  53092 | Ends: Sat Sep 19, 2026 08:00 PM CDT | Sport: Volleyball
+Level: Boys Varsity
+Team: NDA Boys Volleyball Co-op
+Site: Homestead High School
+Subsite: Homestead High School - Field House
+</description>
+      <pubDate>Sat, 19 Sep 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104073388</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Volleyball @ Kimberly High School — Sat Sep 19, 2026 08:00 AM CDT</title>
