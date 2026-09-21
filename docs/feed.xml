@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 12:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:20:50 +0000</lastBuildDate>
     <item>
       <title>[Sports] Boys JV Football @ De Pere High School — Mon Sep 21, 2026 05:00 PM CDT</title>
       <description>Location:  1700 Chicago Street, De Pere WI  54115 | Ends: Mon Sep 21, 2026 07:00 PM CDT | Sport: Football
@@ -1410,6 +1410,12 @@ Subsite: Gym - Main Court (1-3)
       <description>No additional details.</description>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">17500344@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Orchestra Concert — Thu Nov 19, 2026 01:00 PM CST</title>
+      <description>Location: PAC | Ends: Thu Nov 19, 2026 03:00 PM CST</description>
+      <pubDate>Thu, 19 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17500214@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
