@@ -4,51 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Sat, 26 Sep 2026 12:20:33 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Girls JV Volleyball @ De Pere High School — Sat Sep 26, 2026 08:30 AM CDT</title>
-      <description>Location:  1700 Chicago Street, De Pere WI  54115 | Ends: Sat Sep 26, 2026 10:30 AM CDT | Sport: Volleyball
-Level: Girls JV
-Team: Bay Port High School
-Site: De Pere High School
-Subsite: Fieldhouse Main Court
-</description>
-      <pubDate>Sat, 26 Sep 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592367</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Volleyball @ Hartford Union High School — Sat Sep 26, 2026 09:00 AM CDT</title>
-      <description>Location:  805 Cedar St, Hartford WI  53027 | Ends: Sat Sep 26, 2026 04:00 PM CDT | Sport: Volleyball
-Level: Boys JV
-Team: NDA Boys Volleyball Co-op
-Site: Hartford Union High School
-Subsite: Field House Center Court
-</description>
-      <pubDate>Sat, 26 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100897372</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Soccer @ Wauwatosa East High School — Sat Sep 26, 2026 11:00 AM CDT</title>
-      <description>Location:  11100 W. Center Street, Wauwatosa WI  53222 | Ends: Sat Sep 26, 2026 11:30 AM CDT | Sport: Soccer
-Level: Boys JV
-Team: Bay Port High School
-Site: Whitman Middle School
-Subsite: Soccer Stadium 
-</description>
-      <pubDate>Sat, 26 Sep 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101064619</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Soccer @ Wauwatosa East High School — Sat Sep 26, 2026 01:00 PM CDT</title>
-      <description>Location:  11100 West Center Street, Milwaukee WI  53226 | Ends: Sat Sep 26, 2026 03:00 PM CDT | Sport: Soccer
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Whitman Middle School
-Subsite: Whitman Middle School
-</description>
-      <pubDate>Sat, 26 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100617422</guid>
-    </item>
+    <lastBuildDate>Sun, 27 Sep 2026 12:20:48 +0000</lastBuildDate>
     <item>
       <title>[Sports] Boys JV2 Football @ Appleton West High School — Mon Sep 28, 2026 05:00 PM CDT</title>
       <description>Location:  610 N Badger Ave, Appleton WI  54914 | Ends: Mon Sep 28, 2026 06:30 PM CDT | Sport: Football
@@ -1174,6 +1130,12 @@ Subsite: East High School - 1300 Patriot Gym
 </description>
       <pubDate>Wed, 25 Nov 2026 01:15:00 +0000</pubDate>
       <guid isPermaLink="false">GP-98959383</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Thanksgiving Recess — Wed Nov 25, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17522827@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
