@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Sun, 27 Sep 2026 12:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:24:06 +0000</lastBuildDate>
     <item>
       <title>[Sports] Boys JV2 Football @ Appleton West High School — Mon Sep 28, 2026 05:00 PM CDT</title>
       <description>Location:  610 N Badger Ave, Appleton WI  54914 | Ends: Mon Sep 28, 2026 06:30 PM CDT | Sport: Football
@@ -111,6 +111,16 @@ Subsite: Stadium
       <guid isPermaLink="false">GP-99589916</guid>
     </item>
     <item>
+      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
+Level: Boys Varsity
+Team: NDA Boys Volleyball Co-op
+Site: TBA
+</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100489361</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Volleyball @ Kimberly High School — Tue Sep 29, 2026 07:00 PM CDT</title>
       <description>Location:  1662 E Kennedy Ave, Kimberly WI  54136 | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
 Level: Boys Varsity
@@ -120,16 +130,6 @@ Subsite: Gym
 </description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-100043454</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
-Level: Boys Varsity
-Team: NDA Boys Volleyball Co-op
-Site: TBA
-</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100489361</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Volleyball vs Green Bay Southwest High School — Tue Sep 29, 2026 07:00 PM CDT</title>
@@ -1136,6 +1136,34 @@ Subsite: East High School - 1300 Patriot Gym
       <description>No additional details.</description>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">17522827@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Thanksgiving Recess — Thu Nov 26, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17523730@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey — Fri Nov 27, 2026 12:01 AM CST</title>
+      <description>Location:  2100 W Fairy Chasm Road, Milwaukee AL  53217 | Ends: Fri Nov 27, 2026 12:01 AM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Polly and Henry Uihlein Ice Arena
+Subsite: Uihlein Ice Arena
+</description>
+      <pubDate>Fri, 27 Nov 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101109924</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey — Fri Nov 27, 2026 12:01 AM CST</title>
+      <description>Location:  2100 W Fairy Chasm Road, Milwaukee AL  53217 | Ends: Fri Nov 27, 2026 12:01 AM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Polly and Henry Uihlein Ice Arena
+Subsite: Uihlein Ice Arena
+</description>
+      <pubDate>Fri, 27 Nov 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101109891</guid>
     </item>
   </channel>
 </rss>
