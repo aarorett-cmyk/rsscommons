@@ -4,127 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 12:23:56 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Coed Varsity Soccer - Adapted @ Appleton West High School — Tue Sep 29, 2026 04:00 PM CDT</title>
-      <description>Location:  610 N Badger Ave, Appleton WI  54914 | Ends: Tue Sep 29, 2026 05:30 PM CDT | Sport: Soccer - Adapted
-Level: Coed Varsity
-Team: Bay Port High School
-Site: Appleton West High School
-Subsite: SEIMS GYM
-</description>
-      <pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-102498789</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV Tennis @ Ashwaubenon High School — Tue Sep 29, 2026 04:00 PM CDT</title>
-      <description>Location:  2582 Pioneer Dr, Ashwaubenon Wisconsin  54313 | Ends: Tue Sep 29, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls JV
-Team: Bay Port High School - JV1
-Site: Pioneer Park
-Subsite: Tennis Courts
-</description>
-      <pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592008</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Tennis @ Ashwaubenon High School — Tue Sep 29, 2026 04:00 PM CDT</title>
-      <description>Location:  2582 Pioneer Dr, Ashwaubenon Wisconsin  54313 | Ends: Tue Sep 29, 2026 06:00 PM CDT | Sport: Tennis
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Pioneer Park
-Subsite: Tennis Courts
-</description>
-      <pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592084</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Soccer vs Ashwaubenon High School — Tue Sep 29, 2026 05:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 29, 2026 07:00 PM CDT | Sport: Soccer
-Level: Boys JV
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Stadium
-</description>
-      <pubDate>Tue, 29 Sep 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99589334</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Volleyball @ Kimberly High School — Tue Sep 29, 2026 05:30 PM CDT</title>
-      <description>Location:  1662 E Kennedy Ave, Kimberly WI  54136 | Ends: Tue Sep 29, 2026 06:30 PM CDT | Sport: Volleyball
-Level: Boys JV
-Team: NDA Boys Volleyball Co-op
-Site: Kimberly High School
-Subsite: Gym
-</description>
-      <pubDate>Tue, 29 Sep 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100058406</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV Volleyball vs Green Bay Southwest High School - JV1 — Tue Sep 29, 2026 05:30 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 29, 2026 07:00 PM CDT | Sport: Volleyball
-Level: Girls JV
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Gym - Court 1
-</description>
-      <pubDate>Tue, 29 Sep 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592371</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV2 Volleyball vs Green Bay Southwest High School — Tue Sep 29, 2026 05:30 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 29, 2026 07:30 PM CDT | Sport: Volleyball
-Level: Girls JV2
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Gym - Court 4
-</description>
-      <pubDate>Tue, 29 Sep 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592376</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Soccer vs Ashwaubenon High School — Tue Sep 29, 2026 07:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Soccer
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Stadium
-</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99589916</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Volleyball @ Kimberly High School — Tue Sep 29, 2026 07:00 PM CDT</title>
-      <description>Location:  1662 E Kennedy Ave, Kimberly WI  54136 | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
-Level: Boys Varsity
-Team: NDA Boys Volleyball Co-op
-Site: Kimberly High School
-Subsite: Gym
-</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100043454</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Volleyball — Tue Sep 29, 2026 07:00 PM CDT</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
-Level: Boys Varsity
-Team: NDA Boys Volleyball Co-op
-Site: TBA
-</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100489361</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Volleyball vs Green Bay Southwest High School — Tue Sep 29, 2026 07:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Sep 29, 2026 09:00 PM CDT | Sport: Volleyball
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Gym - Court 1
-</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99592694</guid>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 12:27:02 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Golf @ Appleton North High School — Wed Sep 30, 2026 09:30 AM CDT</title>
       <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Wed Sep 30, 2026 05:30 PM CDT | Sport: Golf
@@ -981,6 +861,17 @@ Subsite: Uihlein Ice Arena
 </description>
       <pubDate>Sat, 28 Nov 2026 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101109899</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Basketball @ Kettle Moraine High School — Sat Nov 28, 2026 07:00 PM CST</title>
+      <description>Location:  349 N. Oak Crest Dr., Wales WI  53183 | Ends: Sat Nov 28, 2026 08:30 PM CST | Sport: Basketball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Kettle Moraine High School
+Subsite: Gym
+</description>
+      <pubDate>Sun, 29 Nov 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101189106</guid>
     </item>
   </channel>
 </rss>
