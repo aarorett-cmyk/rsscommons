@@ -4,29 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 12:23:03 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Boys Varsity Football vs West De Pere High School — Fri Oct 02, 2026 07:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Oct 02, 2026 09:00 PM CDT | Sport: Football
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Stadium
-</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99588207</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Swimming @ Fond Du Lac High School — Sat Oct 03, 2026 10:00 AM CDT</title>
-      <description>Location:  100 W 9th St., FOND DU LAC WI  54935 | Ends: Sat Oct 03, 2026 06:00 PM CDT | Sport: Swimming
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Aquatic Center (Fond du Lac)
-Subsite: Aquatic Center (Fond du Lac)
-</description>
-      <pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-102801264</guid>
-    </item>
+    <lastBuildDate>Sat, 03 Oct 2026 16:07:28 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Tennis @ Appleton North High School — Mon Oct 05, 2026 09:00 AM CDT</title>
       <description>Location:  5000 North Ballard Road, Appleton WI  54913 | Ends: Mon Oct 05, 2026 01:00 PM CDT | Sport: Tennis
@@ -773,6 +751,50 @@ Subsite: Gym
 </description>
       <pubDate>Sun, 29 Nov 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101189106</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball @ Stevens Point Area Senior High - JV3 — Tue Dec 01, 2026 05:30 PM CST</title>
+      <description>Location:  2000 Polk Street, Stevens Point WI  54481 | Ends: Tue Dec 01, 2026 07:00 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV3
+Site: Ben Franklin Junior High School
+Subsite: Gym
+</description>
+      <pubDate>Tue, 01 Dec 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99424573</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball @ Stevens Point Area Senior High - JV1 — Tue Dec 01, 2026 05:45 PM CST</title>
+      <description>Location:  1201 Northpoint Dr, Stevens Point Wisconsin  54481 | Ends: Tue Dec 01, 2026 07:00 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Stevens Point Area Senior High School
+Subsite: Fieldhouse
+</description>
+      <pubDate>Tue, 01 Dec 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99424437</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV2 Basketball @ Stevens Point Area Senior High — Tue Dec 01, 2026 05:45 PM CST</title>
+      <description>Location:  1201 Northpoint Dr, Stevens Point Wisconsin  54481 | Ends: Tue Dec 01, 2026 07:00 PM CST | Sport: Basketball
+Level: Boys JV2
+Team: Bay Port High School
+Site: Stevens Point Area Senior High School
+Subsite: Fieldhouse
+</description>
+      <pubDate>Tue, 01 Dec 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99424447</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Basketball @ Stevens Point Area Senior High — Tue Dec 01, 2026 07:15 PM CST</title>
+      <description>Location:  1201 Northpoint Dr, Stevens Point Wisconsin  54481 | Ends: Tue Dec 01, 2026 09:00 PM CST | Sport: Basketball
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Stevens Point Area Senior High School
+Subsite: Fieldhouse
+</description>
+      <pubDate>Wed, 02 Dec 2026 01:15:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99424401</guid>
     </item>
   </channel>
 </rss>
