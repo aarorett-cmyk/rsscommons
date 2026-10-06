@@ -4,62 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 16:46:55 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Girls Varsity Tennis @ Appleton North High School — Mon Oct 05, 2026 09:00 AM CDT</title>
-      <description>Location:  5000 North Ballard Road, Appleton WI  54913 | Ends: Mon Oct 05, 2026 01:00 PM CDT | Sport: Tennis
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Appleton North High School
-Subsite: Tennis Courts
-</description>
-      <pubDate>Mon, 05 Oct 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-102695802</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Football @ West De Pere High School — Mon Oct 05, 2026 05:00 PM CDT</title>
-      <description>Location:  665 Grant St, De Pere WI  54115 | Ends: Mon Oct 05, 2026 07:00 PM CDT | Sport: Football
-Level: Boys JV
-Team: Bay Port High School - JV1
-Site: West De Pere High School
-Subsite: West De Pere High School Stadium
-</description>
-      <pubDate>Mon, 05 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99587227</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Soccer vs De Pere High School - Junior Varsity — Mon Oct 05, 2026 05:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Mon Oct 05, 2026 05:30 PM CDT | Sport: Soccer
-Level: Boys JV
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Soccer Grass Field
-</description>
-      <pubDate>Mon, 05 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100762346</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV2 Football vs West De Pere High School — Mon Oct 05, 2026 05:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Mon Oct 05, 2026 07:00 PM CDT | Sport: Football
-Level: Boys JV2
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Stadium
-</description>
-      <pubDate>Mon, 05 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99587217</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Golf @ Notre Dame de la Baie Academy High School — Tue Oct 06, 2026 09:00 AM CDT</title>
-      <description>Location:  4470 North Pine Tree Road, Hobart WI  54155 | Ends: Tue Oct 06, 2026 11:00 AM CDT | Sport: Golf
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Thornberry Creek at Oneida
-Subsite: Thornberry Creek at Oneida
-</description>
-      <pubDate>Tue, 06 Oct 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-104429589</guid>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 18:17:16 +0000</lastBuildDate>
     <item>
       <title>[Sports] Coed Varsity Soccer - Adapted vs Appleton North High School — Tue Oct 06, 2026 03:30 PM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Oct 06, 2026 04:30 PM CDT | Sport: Soccer - Adapted
@@ -621,6 +566,17 @@ Subsite: Main Gym
       <guid isPermaLink="false">GP-100736169</guid>
     </item>
     <item>
+      <title>[Sports] Girls JV Basketball vs Oshkosh West High School — Tue Nov 24, 2026 05:30 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Nov 24, 2026 06:45 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Main Court (1-3)
+</description>
+      <pubDate>Tue, 24 Nov 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100567911</guid>
+    </item>
+    <item>
       <title>[Sports] Boys JV Basketball @ Appleton East High School — Tue Nov 24, 2026 05:45 PM CST</title>
       <description>Location:  2121 E Emmers Dr, Appleton WI  54915 | Ends: Tue Nov 24, 2026 07:15 PM CST | Sport: Basketball
 Level: Boys JV
@@ -641,17 +597,6 @@ Subsite: East High School - 1317 New Gym
 </description>
       <pubDate>Tue, 24 Nov 2026 23:45:00 +0000</pubDate>
       <guid isPermaLink="false">GP-98959442</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV Basketball vs Oshkosh West High School — Tue Nov 24, 2026 05:45 PM CST</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Nov 24, 2026 07:00 PM CST | Sport: Basketball
-Level: Girls JV
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Gym - Main Court (1-3)
-</description>
-      <pubDate>Tue, 24 Nov 2026 23:45:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100567911</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey vs Manitowoc United — Tue Nov 24, 2026 07:00 PM CST</title>
@@ -795,6 +740,138 @@ Subsite: Fieldhouse
 </description>
       <pubDate>Wed, 02 Dec 2026 01:15:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99424401</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Wrestling @ Bonduel High School — Thu Dec 03, 2026 05:00 PM CST</title>
+      <description>Location:  400 Green Bay Street Po Box 310, Bonduel WI  54107 | Ends: Thu Dec 03, 2026 08:30 PM CST | Sport: Wrestling
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Bonduel High School
+Subsite: High School Gym
+</description>
+      <pubDate>Thu, 03 Dec 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-98068981</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Wrestling vs Neenah High School — Thu Dec 03, 2026 06:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Thu Dec 03, 2026 07:00 PM CST | Sport: Wrestling
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Bay Port High School
+Subsite: Gym - Main Court (1-3)
+</description>
+      <pubDate>Fri, 04 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-103298930</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Wrestling vs Neenah High School - Varsity — Thu Dec 03, 2026 06:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Thu Dec 03, 2026 08:00 PM CST | Sport: Wrestling
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Main Court (1-3)
+</description>
+      <pubDate>Fri, 04 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99969385</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey vs University School of Milwaukee High School — Fri Dec 04, 2026 05:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Fri Dec 04, 2026 07:00 PM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Fri, 04 Dec 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99604597</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Hockey vs Arrowhead High School — Fri Dec 04, 2026 05:30 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Fri Dec 04, 2026 07:30 PM CST | Sport: Hockey
+Level: Girls Varsity
+Team: Bay Area Ice Bears
+Site: Cornerstone Community Center
+Subsite: Rink 3
+</description>
+      <pubDate>Fri, 04 Dec 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100059035</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Basketball @ Sheboygan North High School — Fri Dec 04, 2026 05:45 PM CST</title>
+      <description>Location:  2926 North 10th Street, Sheboygan WI  53083 | Ends: Fri Dec 04, 2026 07:45 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: Sheboygan North High School
+Subsite: Fieldhouse
+</description>
+      <pubDate>Fri, 04 Dec 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654217</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey vs University School of Milwaukee High School — Fri Dec 04, 2026 07:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Fri Dec 04, 2026 09:30 PM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Sat, 05 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101918573</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Basketball @ Sheboygan North High School — Fri Dec 04, 2026 07:00 PM CST</title>
+      <description>Location:  2926 North 10th Street, Sheboygan WI  53083 | Ends: Fri Dec 04, 2026 09:00 PM CST | Sport: Basketball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Sheboygan North High School
+Subsite: Fieldhouse
+</description>
+      <pubDate>Sat, 05 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654680</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Hockey vs Arrowhead High School — Fri Dec 04, 2026 07:30 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Fri Dec 04, 2026 09:30 PM CST | Sport: Hockey
+Level: Girls JV
+Team: Bay Area Ice Bears
+Site: Cornerstone Community Center
+Subsite: Rink 3
+</description>
+      <pubDate>Sat, 05 Dec 2026 01:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100059036</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Wrestling @ Kimberly High School — Sat Dec 05, 2026 08:00 AM CST</title>
+      <description>Location:  1662 E Kennedy Ave, Kimberly WI  54136 | Ends: Sat Dec 05, 2026 07:00 PM CST | Sport: Wrestling
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Kimberly High School
+Subsite: Gym
+</description>
+      <pubDate>Sat, 05 Dec 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102762878</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Wrestling @ Luxemburg-Casco High School — Sat Dec 05, 2026 09:00 AM CST</title>
+      <description>Location:  512 Center Drive 512 Center Drive, Luxemburg WI  54217 | Ends: Sat Dec 05, 2026 05:00 PM CST | Sport: Wrestling
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Luxemburg-Casco High School
+Subsite: High School - Gymnasium
+</description>
+      <pubDate>Sat, 05 Dec 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102586019</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Swimming @ Oshkosh West High School — Sat Dec 05, 2026 10:30 AM CST</title>
+      <description>Location:  375 N Eagle St, Oshkosh WI  54902 | Ends: Sat Dec 05, 2026 01:30 PM CST | Sport: Swimming
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Oshkosh West High School
+Subsite: West High - Pool
+</description>
+      <pubDate>Sat, 05 Dec 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102800926</guid>
     </item>
   </channel>
 </rss>
