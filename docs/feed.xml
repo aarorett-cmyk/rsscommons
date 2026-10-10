@@ -4,51 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 18:17:15 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Boys JV Soccer @ Sheboygan Christian/Lutheran  — Fri Oct 09, 2026 04:30 PM CDT</title>
-      <description>Location:  929 Greenfield Avenue, Sheboygan WI  53081 | Ends: Fri Oct 09, 2026 06:15 PM CDT | Sport: Soccer
-Level: Boys JV
-Team: Bay Port High School
-Site: Sheboygan Christian High School
-Subsite: JV Soccer Field 
-</description>
-      <pubDate>Fri, 09 Oct 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-98820199</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Soccer @ Sheboygan Christian/Lutheran  — Fri Oct 09, 2026 04:30 PM CDT</title>
-      <description>Location:  929 Greenfield Avenue, Sheboygan WI  53081 | Ends: Fri Oct 09, 2026 06:15 PM CDT | Sport: Soccer
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Sheboygan Christian High School
-Subsite: Varsity Soccer Field
-</description>
-      <pubDate>Fri, 09 Oct 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-98820161</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Football vs Green Bay Preble High School — Fri Oct 09, 2026 07:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Oct 09, 2026 09:00 PM CDT | Sport: Football
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Stadium
-</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99588213</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV2 Volleyball @ Green Bay Preble High School — Sat Oct 10, 2026 08:00 AM CDT</title>
-      <description>Location:  2222 Deckner Ave, Green Bay Wisconsin  54302 | Ends: Sat Oct 10, 2026 03:00 PM CDT | Sport: Volleyball
-Level: Girls JV2
-Team: Bay Port High School
-Site: Green Bay Preble High School
-Subsite: Fieldhouse
-</description>
-      <pubDate>Sat, 10 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100571358</guid>
-    </item>
+    <lastBuildDate>Sat, 10 Oct 2026 17:16:23 +0000</lastBuildDate>
     <item>
       <title>[Sports] Coed Varsity Soccer - Adapted @ Oshkosh North High School — Mon Oct 12, 2026 04:00 PM CDT</title>
       <description>Location:  1100 W. Smith Ave, Oshkosh WI  54901 | Ends: Mon Oct 12, 2026 05:00 PM CDT | Sport: Soccer - Adapted
@@ -960,6 +916,67 @@ Subsite: Gym - Main Court (1-3)
 </description>
       <pubDate>Tue, 08 Dec 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99530048</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey @ Neenah High School — Tue Dec 08, 2026 05:00 PM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Tue Dec 08, 2026 07:00 PM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Tue, 08 Dec 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110322</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV2 Basketball vs Appleton North High School — Tue Dec 08, 2026 05:40 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 08, 2026 06:55 PM CST | Sport: Basketball
+Level: Boys JV2
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 4
+</description>
+      <pubDate>Tue, 08 Dec 2026 23:40:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99437390</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball vs Appleton North High School — Tue Dec 08, 2026 05:45 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 08, 2026 07:00 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Bay Port High School
+Subsite: Gym - Main Court (1-3)
+</description>
+      <pubDate>Tue, 08 Dec 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99437389</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Tue Dec 08, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 09 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604289@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Basketball vs Appleton North High School — Tue Dec 08, 2026 07:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 08, 2026 08:30 PM CST | Sport: Basketball
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Main Court (1-3)
+</description>
+      <pubDate>Wed, 09 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99437387</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey @ Neenah High School — Tue Dec 08, 2026 07:00 PM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Tue Dec 08, 2026 09:30 PM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Wed, 09 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110282</guid>
     </item>
   </channel>
 </rss>
