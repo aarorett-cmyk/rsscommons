@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 17:16:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:38:38 +0000</lastBuildDate>
     <item>
       <title>[Sports] Coed Varsity Soccer - Adapted @ Oshkosh North High School — Mon Oct 12, 2026 04:00 PM CDT</title>
       <description>Location:  1100 W. Smith Ave, Oshkosh WI  54901 | Ends: Mon Oct 12, 2026 05:00 PM CDT | Sport: Soccer - Adapted
@@ -977,6 +977,12 @@ Subsite: Main Rink
 </description>
       <pubDate>Wed, 09 Dec 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101110282</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Wed Dec 09, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 10 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604440@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
