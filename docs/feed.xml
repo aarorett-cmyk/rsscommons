@@ -4,29 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Mon, 12 Oct 2026 21:12:48 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Boys JV Football @ Green Bay Preble High School — Mon Oct 12, 2026 05:00 PM CDT</title>
-      <description>Location:  2222 Deckner Ave, Green Bay Wisconsin  54302 | Ends: Mon Oct 12, 2026 07:00 PM CDT | Sport: Football
-Level: Boys JV
-Team: Bay Port High School - JV1
-Site: Green Bay Preble High School
-Subsite: Stadium
-</description>
-      <pubDate>Mon, 12 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99587239</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV2 Football vs Green Bay Preble High School — Mon Oct 12, 2026 05:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Mon Oct 12, 2026 07:00 PM CDT | Sport: Football
-Level: Boys JV2
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Stadium
-</description>
-      <pubDate>Mon, 12 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99587231</guid>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 19:11:22 +0000</lastBuildDate>
     <item>
       <title>[Sports] Coed Varsity Soccer - Adapted vs Oshkosh West High School — Tue Oct 13, 2026 04:00 PM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Oct 13, 2026 05:00 PM CDT | Sport: Soccer - Adapted
@@ -94,6 +72,12 @@ Subsite: Lineville Pool
       <guid isPermaLink="false">GP-99591538</guid>
     </item>
     <item>
+      <title>[Bay Port] Pirate Time Choice — Tue Oct 13, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604528@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Soccer vs Sun Prairie East High School — Tue Oct 13, 2026 07:00 PM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Oct 13, 2026 09:00 PM CDT | Sport: Soccer
 Level: Boys Varsity
@@ -125,6 +109,12 @@ Subsite: Fieldhouse Main Court
 </description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99592716</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Wed Oct 14, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604492@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Cross Country @ West De Pere High School - JV1 — Thu Oct 15, 2026 03:00 PM CDT</title>
@@ -226,6 +216,12 @@ Subsite: Main Turf Field
       <guid isPermaLink="false">GP-99589936</guid>
     </item>
     <item>
+      <title>[Bay Port] Picture Retakes — Thu Oct 15, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604699@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Volleyball vs Appleton East High School — Thu Oct 15, 2026 07:00 PM CDT</title>
       <description>Location:  610 Maryhill Dr, Green Bay WI  54303 | Ends: Thu Oct 15, 2026 09:00 PM CDT | Sport: Volleyball
 Level: Boys Varsity
@@ -281,17 +277,6 @@ Subsite: Goelz Field/ Al Vandenberg Track
       <guid isPermaLink="false">GP-99587246</guid>
     </item>
     <item>
-      <title>[Sports] Boys Varsity Soccer @ Hortonville High School — Tue Oct 20, 2026 12:00 AM CDT</title>
-      <description>Location:  155 Warner St, Hortonville WI  54944 | Ends: Tue Oct 20, 2026 01:00 AM CDT | Sport: Soccer
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Hortonville High School
-Subsite: Wolf River Community Bank Stadium - Akin Field
-</description>
-      <pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-104467958</guid>
-    </item>
-    <item>
       <title>[Sports] Girls Varsity Swimming vs De Pere Girls Swimming Co-op — Tue Oct 20, 2026 05:30 PM CDT</title>
       <description>Location:  2700 Lineville Rd, Green Bay WI  54313 | Ends: Tue Oct 20, 2026 07:30 PM CDT | Sport: Swimming
 Level: Girls Varsity
@@ -301,6 +286,88 @@ Subsite: Lineville Pool
 </description>
       <pubDate>Tue, 20 Oct 2026 22:30:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99591542</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Homeroom — Tue Oct 20, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604228@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Soccer @ Hortonville High School — Tue Oct 20, 2026 07:00 PM CDT</title>
+      <description>Location:  155 Warner St, Hortonville WI  54944 | Ends: Tue Oct 20, 2026 08:00 PM CDT | Sport: Soccer
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Hortonville High School
+Subsite: Wolf River Community Bank Stadium - Akin Field
+</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104467958</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Wed Oct 21, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604425@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] P/T Conferences — Thu Oct 22, 2026 11:00 AM CDT</title>
+      <description>Ends: Thu Oct 22, 2026 02:30 PM CDT</description>
+      <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17605157@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Fall Play — Thu Oct 22, 2026 02:00 PM CDT</title>
+      <description>Ends: Thu Oct 22, 2026 04:00 PM CDT</description>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604921@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Fall Play — Fri Oct 23, 2026 02:00 PM CDT</title>
+      <description>Ends: Fri Oct 23, 2026 04:00 PM CDT</description>
+      <pubDate>Fri, 23 Oct 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17605253@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Fall Play — Sat Oct 24, 2026 02:00 PM CDT</title>
+      <description>Ends: Sat Oct 24, 2026 04:00 PM CDT</description>
+      <pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604771@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Volleyball — Sat Oct 24, 2026 07:00 PM CDT</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Sat Oct 24, 2026 08:00 PM CDT | Sport: Volleyball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Main Court (1-3)
+</description>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104652761</guid>
+    </item>
+    <item>
+      <title>[Bay Port] P/T Conferences — Mon Oct 26, 2026 11:00 AM CDT</title>
+      <description>Ends: Mon Oct 26, 2026 02:30 PM CDT</description>
+      <pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604702@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Tue Oct 27, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604670@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Wed Oct 28, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604525@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] No School — Thu Oct 29, 2026 07:00 PM CDT</title>
+      <description>No additional details.</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604450@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Swimming vs Ashwaubenon High School — Sat Oct 31, 2026 09:00 AM CDT</title>
@@ -314,6 +381,30 @@ Subsite: Lineville Pool
       <guid isPermaLink="false">GP-99591545</guid>
     </item>
     <item>
+      <title>[Bay Port] Pirate Time Homeroom — Tue Nov 03, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17605050@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Wed Nov 04, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17605250@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Craft Fair — Sat Nov 07, 2026 03:00 AM CST</title>
+      <description>Ends: Sat Nov 07, 2026 09:00 AM CST</description>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604784@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pops Concert — Sat Nov 07, 2026 01:00 PM CST</title>
+      <description>Ends: Sat Nov 07, 2026 03:00 PM CST</description>
+      <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604396@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Girls Varsity Swimming @ Hudson High School — Sat Nov 07, 2026 01:00 PM CST</title>
       <description>Location:  1501 Vine St, Hudson WI  54016 | Ends: Sat Nov 07, 2026 05:00 PM CST | Sport: Swimming
 Level: Girls Varsity
@@ -323,6 +414,24 @@ Subsite: Pool
 </description>
       <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101252520</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Tue Nov 10, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604260@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Wed Nov 11, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604734@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] No School - Staff Only PD Day — Thu Nov 12, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17605340@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Basketball vs Appleton East High School — Tue Nov 17, 2026 05:45 PM CST</title>
@@ -336,6 +445,12 @@ Subsite: Gym - Main Court (1-3)
       <guid isPermaLink="false">GP-98961974</guid>
     </item>
     <item>
+      <title>[Bay Port] Pirate Time Homeroom — Tue Nov 17, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17605165@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Girls Varsity Basketball vs Appleton East High School — Tue Nov 17, 2026 07:00 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Nov 17, 2026 08:30 PM CST | Sport: Basketball
 Level: Girls Varsity
@@ -345,6 +460,24 @@ Subsite: Gym - Main Court (1-3)
 </description>
       <pubDate>Wed, 18 Nov 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-98961911</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Wed Nov 18, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604506@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Senior Pictures Due — Wed Nov 18, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604184@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Orchestra Concert — Thu Nov 19, 2026 01:00 PM CST</title>
+      <description>Location: PAC | Ends: Thu Nov 19, 2026 03:00 PM CST</description>
+      <pubDate>Thu, 19 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17605072@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Basketball @ Kaukauna High School - JV — Fri Nov 20, 2026 05:45 PM CST</title>
@@ -367,6 +500,12 @@ Subsite: Main Gym
 </description>
       <pubDate>Sat, 21 Nov 2026 01:15:00 +0000</pubDate>
       <guid isPermaLink="false">GP-100736169</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Show Choir Preview Show — Tue Nov 24, 2026 12:00 PM CST</title>
+      <description>Ends: Tue Nov 24, 2026 01:30 PM CST</description>
+      <pubDate>Tue, 24 Nov 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17605047@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Basketball vs Oshkosh West High School — Tue Nov 24, 2026 05:30 PM CST</title>
@@ -402,6 +541,12 @@ Subsite: East High School - 1317 New Gym
       <guid isPermaLink="false">GP-98959442</guid>
     </item>
     <item>
+      <title>[Bay Port] Thanksgiving Recess — Tue Nov 24, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604496@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Hockey vs Manitowoc United — Tue Nov 24, 2026 07:00 PM CST</title>
       <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Tue Nov 24, 2026 10:00 PM CST | Sport: Hockey
 Level: Boys Varsity
@@ -433,6 +578,18 @@ Subsite: East High School - 1300 Patriot Gym
 </description>
       <pubDate>Wed, 25 Nov 2026 01:15:00 +0000</pubDate>
       <guid isPermaLink="false">GP-98959383</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Thanksgiving Recess — Wed Nov 25, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17605049@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Thanksgiving Recess — Thu Nov 26, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604689@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Fri Nov 27, 2026 12:01 AM CST</title>
@@ -534,6 +691,12 @@ Subsite: Fieldhouse
       <guid isPermaLink="false">GP-99424447</guid>
     </item>
     <item>
+      <title>[Bay Port] Pirate Time Homeroom — Tue Dec 01, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 02 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604338@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Basketball @ Stevens Point Area Senior High — Tue Dec 01, 2026 07:15 PM CST</title>
       <description>Location:  1201 Northpoint Dr, Stevens Point Wisconsin  54481 | Ends: Tue Dec 01, 2026 09:00 PM CST | Sport: Basketball
 Level: Boys Varsity
@@ -543,6 +706,12 @@ Subsite: Fieldhouse
 </description>
       <pubDate>Wed, 02 Dec 2026 01:15:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99424401</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Wed Dec 02, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 03 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604775@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Wrestling @ Bonduel High School — Thu Dec 03, 2026 05:00 PM CST</title>
@@ -699,6 +868,12 @@ Subsite: The Ponds of Brookfield Ice Arena
       <guid isPermaLink="false">GP-103389494</guid>
     </item>
     <item>
+      <title>[Bay Port] Band Concert — Mon Dec 07, 2026 01:00 PM CST</title>
+      <description>Location: PAC | Ends: Mon Dec 07, 2026 03:00 PM CST</description>
+      <pubDate>Mon, 07 Dec 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604575@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Girls JV Basketball vs Appleton North High School — Mon Dec 07, 2026 05:45 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Mon Dec 07, 2026 07:00 PM CST | Sport: Basketball
 Level: Girls JV
@@ -754,6 +929,12 @@ Subsite: Gym - Main Court (1-3)
       <guid isPermaLink="false">GP-99437389</guid>
     </item>
     <item>
+      <title>[Bay Port] Pirate Time Choice — Tue Dec 08, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 09 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604289@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Basketball vs Appleton North High School — Tue Dec 08, 2026 07:00 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 08, 2026 08:30 PM CST | Sport: Basketball
 Level: Boys Varsity
@@ -774,6 +955,12 @@ Subsite: Main Rink
 </description>
       <pubDate>Wed, 09 Dec 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101110282</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Wed Dec 09, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 10 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604440@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Basketball vs Notre Dame de la Baie Academy High School - JV1 — Thu Dec 10, 2026 04:15 PM CST</title>
@@ -872,6 +1059,100 @@ Subsite: Ice Arena
 </description>
       <pubDate>Fri, 11 Dec 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-100118318</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Hockey vs Lakeshore Lightning — Fri Dec 11, 2026 05:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Fri Dec 11, 2026 07:00 PM CST | Sport: Hockey
+Level: Girls JV
+Team: Bay Area Ice Bears
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Fri, 11 Dec 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99114846</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Swimming @ Ashwaubenon High School — Fri Dec 11, 2026 05:30 PM CST</title>
+      <description>Location:  2391 S Ridge Rd, Ashwaubenon WI  54304 | Ends: Fri Dec 11, 2026 07:30 PM CST | Sport: Swimming
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Ashwaubenon High School
+Subsite: Ashwaubenon Community Pool
+</description>
+      <pubDate>Fri, 11 Dec 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104723316</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Basketball @ Notre Dame de la Baie Academy High School — Fri Dec 11, 2026 05:45 PM CST</title>
+      <description>Location:  610 Maryhill Dr, Green Bay WI  54303 | Ends: Fri Dec 11, 2026 07:00 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: Notre Dame De La Baie Academy
+Subsite: Triton Center Main
+</description>
+      <pubDate>Fri, 11 Dec 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654226</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Battle on the Bay Wrestling Tournament — Fri Dec 11, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604252@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Basketball @ Notre Dame de la Baie Academy High School — Fri Dec 11, 2026 07:00 PM CST</title>
+      <description>Location:  610 Maryhill Dr, Green Bay WI  54303 | Ends: Fri Dec 11, 2026 09:00 PM CST | Sport: Basketball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Notre Dame De La Baie Academy
+Subsite: Triton Center Main
+</description>
+      <pubDate>Sat, 12 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654684</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Hockey vs Lakeshore Lightning  — Fri Dec 11, 2026 07:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Fri Dec 11, 2026 09:00 PM CST | Sport: Hockey
+Level: Girls Varsity
+Team: Bay Area Ice Bears
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Sat, 12 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99114845</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Wrestling vs Escanaba High School — Sat Dec 12, 2026 08:00 AM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Sat Dec 12, 2026 08:00 PM CST | Sport: Wrestling
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym All Courts
+</description>
+      <pubDate>Sat, 12 Dec 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-98705213</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Wrestling @ Luxemburg-Casco High School — Sat Dec 12, 2026 09:00 AM CST</title>
+      <description>Location:  512 Center Drive 512 Center Drive, Luxemburg WI  54217 | Ends: Sat Dec 12, 2026 05:00 PM CST | Sport: Wrestling
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Luxemburg-Casco High School
+Subsite: High School - Gymnasium
+</description>
+      <pubDate>Sat, 12 Dec 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-103435477</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Swimming @ Rhinelander High School — Sat Dec 12, 2026 12:00 PM CST</title>
+      <description>Location:  665 Coolidge Ave, Rhinelander WI  54501 | Ends: Sat Dec 12, 2026 03:00 PM CST | Sport: Swimming
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Rhinelander High School
+Subsite: Heck Family Community Pool
+</description>
+      <pubDate>Sat, 12 Dec 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-103639483</guid>
     </item>
   </channel>
 </rss>
