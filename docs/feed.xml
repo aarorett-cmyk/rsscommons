@@ -4,18 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 16:31:01 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Boys Varsity Football @ Ashwaubenon High School — Fri Oct 16, 2026 07:00 PM CDT</title>
-      <description>Location:  2391 S Ridge Rd, Ashwaubenon WI  54304 | Ends: Fri Oct 16, 2026 10:00 PM CDT | Sport: Football
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Ashwaubenon High School
-Subsite: Goelz Field/ Al Vandenberg Track
-</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99588223</guid>
-    </item>
+    <lastBuildDate>Sat, 17 Oct 2026 15:24:46 +0000</lastBuildDate>
     <item>
       <title>[Sports] Boys JV Football vs Ashwaubenon High School — Mon Oct 19, 2026 05:00 PM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Mon Oct 19, 2026 07:00 PM CDT | Sport: Football
@@ -976,6 +965,122 @@ Subsite: Rink 3
       <description>Ends: Mon Dec 14, 2026 03:00 PM CST</description>
       <pubDate>Mon, 14 Dec 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">17604534@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Swimming @ Manitowoc Lincoln High School - Varsity — Tue Dec 15, 2026 05:30 PM CST</title>
+      <description>Location:  1617 S 9th Street, Manitowoc WI  54220 | Ends: Tue Dec 15, 2026 07:30 PM CST | Sport: Swimming
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Manitowoc Lincoln High School-JFK
+Subsite: JFK Pool
+</description>
+      <pubDate>Tue, 15 Dec 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99591409</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Hockey vs Fond Du Lac High School — Tue Dec 15, 2026 05:30 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Tue Dec 15, 2026 07:30 PM CST | Sport: Hockey
+Level: Girls Varsity
+Team: Bay Area Ice Bears
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Tue, 15 Dec 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99114919</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV2 Basketball @ Green Bay Preble High School — Tue Dec 15, 2026 05:40 PM CST</title>
+      <description>Location:  2222 Deckner Ave, Green Bay Wisconsin  54302 | Ends: Tue Dec 15, 2026 06:55 PM CST | Sport: Basketball
+Level: Boys JV2
+Team: Bay Port High School
+Site: Green Bay Preble High School
+Subsite: Auxiliary Gym
+</description>
+      <pubDate>Tue, 15 Dec 2026 23:40:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99650006</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball @ Green Bay Preble High School — Tue Dec 15, 2026 05:45 PM CST</title>
+      <description>Location:  2222 Deckner Ave, Green Bay Wisconsin  54302 | Ends: Tue Dec 15, 2026 07:45 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Green Bay Preble High School
+Subsite: Fieldhouse
+</description>
+      <pubDate>Tue, 15 Dec 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99650010</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Basketball vs Green Bay Preble High School — Tue Dec 15, 2026 05:45 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 15, 2026 07:45 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 1
+</description>
+      <pubDate>Tue, 15 Dec 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654234</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Homeroom — Tue Dec 15, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 16 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604927@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey @ De Pere Voyagers Hockey Co-op — Tue Dec 15, 2026 06:00 PM CST</title>
+      <description>Location:  1450 Fort Howard Ave, De Pere Wisconsin  54115 | Ends: Tue Dec 15, 2026 07:45 PM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: De Pere Ice Rink
+Subsite: Ice Rink
+</description>
+      <pubDate>Wed, 16 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99603582</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Basketball @ Green Bay Preble High School — Tue Dec 15, 2026 07:00 PM CST</title>
+      <description>Location:  2222 Deckner Ave, Green Bay Wisconsin  54302 | Ends: Tue Dec 15, 2026 09:00 PM CST | Sport: Basketball
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Green Bay Preble High School
+Subsite: Fieldhouse
+</description>
+      <pubDate>Wed, 16 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99653985</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Basketball vs Green Bay Preble High School — Tue Dec 15, 2026 07:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 15, 2026 09:00 PM CST | Sport: Basketball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 1
+</description>
+      <pubDate>Wed, 16 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654689</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Hockey vs Fond Du Lac High School - JV2 — Tue Dec 15, 2026 07:30 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Tue Dec 15, 2026 09:30 PM CST | Sport: Hockey
+Level: Girls JV
+Team: Bay Area Ice Bears
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Wed, 16 Dec 2026 01:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99114920</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey @ De Pere Voyagers Hockey Co-op — Tue Dec 15, 2026 08:00 PM CST</title>
+      <description>Location:  1450 Fort Howard Ave, De Pere Wisconsin  54115 | Ends: Tue Dec 15, 2026 10:00 PM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: De Pere Ice Rink
+Subsite: Ice Rink
+</description>
+      <pubDate>Wed, 16 Dec 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102294103</guid>
     </item>
   </channel>
 </rss>
