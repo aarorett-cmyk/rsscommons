@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 15:24:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:45:18 +0000</lastBuildDate>
     <item>
       <title>[Sports] Boys JV Football vs Ashwaubenon High School — Mon Oct 19, 2026 05:00 PM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Mon Oct 19, 2026 07:00 PM CDT | Sport: Football
@@ -89,6 +89,17 @@ Subsite: Fieldhouse- Main Gym
 </description>
       <pubDate>Fri, 23 Oct 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-104652603</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Football vs Wausau West High School — Fri Oct 23, 2026 07:00 PM CDT</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Oct 23, 2026 08:00 PM CDT | Sport: Football
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Stadium
+</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104466058</guid>
     </item>
     <item>
       <title>[Bay Port] Fall Play — Sat Oct 24, 2026 02:00 PM CDT</title>
@@ -1081,6 +1092,12 @@ Subsite: Ice Rink
 </description>
       <pubDate>Wed, 16 Dec 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-102294103</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Wed Dec 16, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 17 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17604330@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
