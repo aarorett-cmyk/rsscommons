@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 15:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:39:35 +0000</lastBuildDate>
     <item>
       <title>[Sports] Boys JV Football vs Ashwaubenon High School — Mon Oct 19, 2026 05:00 PM CDT</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Mon Oct 19, 2026 07:00 PM CDT | Sport: Football
@@ -251,6 +251,28 @@ Subsite: Gym - Main Court (1-3)
       <description>Location: PAC | Ends: Thu Nov 19, 2026 03:00 PM CST</description>
       <pubDate>Thu, 19 Nov 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">17605072@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey @ Neenah High School — Fri Nov 20, 2026 12:01 AM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 12:01 AM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Champion Center Grand Chute
+</description>
+      <pubDate>Fri, 20 Nov 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104885249</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey @ Neenah High School — Fri Nov 20, 2026 12:01 AM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 12:01 AM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Champion Center Grand Chute
+</description>
+      <pubDate>Fri, 20 Nov 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104885194</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Basketball @ Kaukauna High School - JV — Fri Nov 20, 2026 05:45 PM CST</title>
@@ -939,14 +961,14 @@ Subsite: Rink 1
       <guid isPermaLink="false">GP-100896058</guid>
     </item>
     <item>
-      <title>[Sports] Boys JV Hockey vs Co-op Sheboygan Red Raiders — Sat Dec 12, 2026 05:00 PM CST</title>
-      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Sat Dec 12, 2026 07:00 PM CST | Sport: Hockey
+      <title>[Sports] Boys JV Hockey vs Co-op Sheboygan Red Raiders — Sat Dec 12, 2026 05:30 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Sat Dec 12, 2026 07:30 PM CST | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
 Site: Cornerstone Community Center
 Subsite: Rink 3
 </description>
-      <pubDate>Sat, 12 Dec 2026 23:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Dec 2026 23:30:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101110556</guid>
     </item>
     <item>
@@ -1098,6 +1120,39 @@ Subsite: Ice Rink
       <description>No additional details.</description>
       <pubDate>Thu, 17 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">17604330@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Wrestling @ Ashwaubenon High School — Thu Dec 17, 2026 05:00 PM CST</title>
+      <description>Location:  2391 S Ridge Rd, Ashwaubenon WI  54304 | Ends: Thu Dec 17, 2026 09:30 PM CST | Sport: Wrestling
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Ashwaubenon High School
+Subsite: Fieldhouse - All 
+</description>
+      <pubDate>Thu, 17 Dec 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99592819</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Wrestling @ Ashwaubenon High School — Thu Dec 17, 2026 05:00 PM CST</title>
+      <description>Location:  2391 S Ridge Rd, Ashwaubenon WI  54304 | Ends: Thu Dec 17, 2026 09:30 PM CST | Sport: Wrestling
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Ashwaubenon High School
+Subsite: Fieldhouse - All 
+</description>
+      <pubDate>Thu, 17 Dec 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99592866</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Wrestling vs Ashwaubenon High School — Thu Dec 17, 2026 05:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Thu Dec 17, 2026 08:00 PM CST | Sport: Wrestling
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Main Court (1-3)
+</description>
+      <pubDate>Thu, 17 Dec 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-103521517</guid>
     </item>
   </channel>
 </rss>
