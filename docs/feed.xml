@@ -4,35 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 16:47:05 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Girls Varsity Swimming vs De Pere Girls Swimming Co-op — Tue Oct 20, 2026 05:30 PM CDT</title>
-      <description>Location:  2700 Lineville Rd, Green Bay WI  54313 | Ends: Tue Oct 20, 2026 07:30 PM CDT | Sport: Swimming
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Lineville Intermediate
-Subsite: Lineville Pool
-</description>
-      <pubDate>Tue, 20 Oct 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99591542</guid>
-    </item>
-    <item>
-      <title>[Bay Port] Pirate Time Homeroom — Tue Oct 20, 2026 07:00 PM CDT</title>
-      <description>No additional details.</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17627745@bayport.hssdschools.org</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Soccer @ Hortonville High School — Tue Oct 20, 2026 07:00 PM CDT</title>
-      <description>Location:  155 Warner St, Hortonville WI  54944 | Ends: Tue Oct 20, 2026 08:00 PM CDT | Sport: Soccer
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Hortonville High School
-Subsite: Wolf River Community Bank Stadium - Akin Field
-</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-104467958</guid>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 17:03:17 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Pirate Time Choice — Wed Oct 21, 2026 07:00 PM CDT</title>
       <description>No additional details.</description>
@@ -201,6 +173,17 @@ Subsite: Pool
       <description>No additional details.</description>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">17627053@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Hockey @ Central Wisconsin Storm — Tue Nov 17, 2026 04:00 PM CST</title>
+      <description>Location:  1201 Stewart Ave, Wausau WI  54401 | Ends: Tue Nov 17, 2026 08:00 PM CST | Sport: Hockey
+Level: Girls Varsity
+Team: Bay Area Ice Bears
+Site: Marathon Park Ice Arena
+Subsite: Marathon Park Ice Arena
+</description>
+      <pubDate>Tue, 17 Nov 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-103208493</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Basketball vs Appleton East High School — Tue Nov 17, 2026 05:45 PM CST</title>
