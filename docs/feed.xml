@@ -4,35 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 16:54:59 +0000</lastBuildDate>
-    <item>
-      <title>[Bay Port] Fall Play — Fri Oct 23, 2026 02:00 PM CDT</title>
-      <description>Ends: Fri Oct 23, 2026 04:00 PM CDT</description>
-      <pubDate>Fri, 23 Oct 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17627521@bayport.hssdschools.org</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Volleyball @ Appleton North High School — Fri Oct 23, 2026 05:00 PM CDT</title>
-      <description>Location:  5000 North Ballard Road, Appleton WI  54913 | Ends: Fri Oct 23, 2026 06:00 PM CDT | Sport: Volleyball
-Level: Boys Varsity
-Team: NDA Boys Volleyball Co-op
-Site: Appleton North High School
-Subsite: Fieldhouse- Main Gym
-</description>
-      <pubDate>Fri, 23 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-104652603</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Football vs Wausau West High School — Fri Oct 23, 2026 07:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Oct 23, 2026 08:00 PM CDT | Sport: Football
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Stadium
-</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-104466058</guid>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 15:47:40 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Fall Play — Sat Oct 24, 2026 02:00 PM CDT</title>
       <description>Ends: Sat Oct 24, 2026 04:00 PM CDT</description>
@@ -85,6 +57,17 @@ Subsite: Gym - Main Court (1-3)
       <description>Location: 2475 Lineville Rd, Green Bay, WI 54313, USA | Ends: Fri Oct 30, 2026 06:00 PM CDT</description>
       <pubDate>Fri, 30 Oct 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="false">17627269@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Football vs Neenah High School — Fri Oct 30, 2026 07:00 PM CDT</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Oct 30, 2026 08:00 PM CDT | Sport: Football
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Stadium
+</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104466660</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Swimming vs Ashwaubenon High School — Sat Oct 31, 2026 09:00 AM CDT</title>
@@ -1224,6 +1207,88 @@ Subsite: Acuity Fieldhouse
 </description>
       <pubDate>Sat, 19 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-102901211</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV2 Basketball vs Manitowoc Lincoln High School — Tue Dec 22, 2026 05:40 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 22, 2026 06:55 PM CST | Sport: Basketball
+Level: Boys JV2
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 4
+</description>
+      <pubDate>Tue, 22 Dec 2026 23:40:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99650023</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball vs Manitowoc Lincoln High School - JV1 — Tue Dec 22, 2026 05:45 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 22, 2026 07:45 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Bay Port High School
+Subsite: Gym - Court 1
+</description>
+      <pubDate>Tue, 22 Dec 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99650028</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Basketball @ Manitowoc Lincoln High School - JV1 — Tue Dec 22, 2026 05:45 PM CST</title>
+      <description>Location:  1617 S 9th Street, Manitowoc WI  54220 | Ends: Tue Dec 22, 2026 07:45 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: Manitowoc Lincoln High School-JFK
+Subsite: JFK Fieldhouse Main
+</description>
+      <pubDate>Tue, 22 Dec 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654257</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Jolabokaflod — Tue Dec 22, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 23 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17627566@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Basketball vs Manitowoc Lincoln High School - Ships — Tue Dec 22, 2026 07:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 22, 2026 09:00 PM CST | Sport: Basketball
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 1
+</description>
+      <pubDate>Wed, 23 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99653996</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Basketball @ Manitowoc Lincoln High School - Ships — Tue Dec 22, 2026 07:00 PM CST</title>
+      <description>Location:  1617 S 9th Street, Manitowoc WI  54220 | Ends: Tue Dec 22, 2026 09:00 PM CST | Sport: Basketball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Manitowoc Lincoln High School-JFK
+Subsite: JFK Fieldhouse Main
+</description>
+      <pubDate>Wed, 23 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654701</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Hockey @ Beaver Dam High School — Tue Dec 22, 2026 07:00 PM CST</title>
+      <description>Location:  500 Gould St, Beaver Dam WI  53916 | Ends: Tue Dec 22, 2026 09:00 PM CST | Sport: Hockey
+Level: Girls Varsity
+Team: Bay Area Ice Bears
+Site: Beaver Dam High School
+Subsite: Beaver Dam High School
+</description>
+      <pubDate>Wed, 23 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102535341</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Hockey @ Beaver Dam High School — Tue Dec 22, 2026 09:00 PM CST</title>
+      <description>Location:  500 Gould St, Beaver Dam WI  53916 | Ends: Tue Dec 22, 2026 11:00 PM CST | Sport: Hockey
+Level: Girls JV
+Team: Bay Area Ice Bears
+Site: Beaver Dam High School
+</description>
+      <pubDate>Wed, 23 Dec 2026 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102535342</guid>
     </item>
   </channel>
 </rss>
