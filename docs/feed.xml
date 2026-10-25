@@ -4,24 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 15:47:40 +0000</lastBuildDate>
-    <item>
-      <title>[Bay Port] Fall Play — Sat Oct 24, 2026 02:00 PM CDT</title>
-      <description>Ends: Sat Oct 24, 2026 04:00 PM CDT</description>
-      <pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17627676@bayport.hssdschools.org</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Volleyball vs Appleton North High School — Sat Oct 24, 2026 07:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Sat Oct 24, 2026 08:00 PM CDT | Sport: Volleyball
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Gym - Main Court (1-3)
-</description>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-104652761</guid>
-    </item>
+    <lastBuildDate>Sun, 25 Oct 2026 15:58:47 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] P/T Conferences — Mon Oct 26, 2026 11:00 AM CDT</title>
       <description>Ends: Mon Oct 26, 2026 02:30 PM CDT</description>
@@ -45,6 +28,16 @@ Subsite: Gym - Main Court (1-3)
       <description>Location: 2475 Lineville Rd, Green Bay, WI 54313, USA | Ends: Thu Oct 29, 2026 06:00 PM CDT</description>
       <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="false">17626709@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Volleyball vs D.C. Everest High School — Thu Oct 29, 2026 05:00 PM CDT</title>
+      <description>Location:  1201 Northpoint Dr, Stevens Point Wisconsin  54481 | Ends: Thu Oct 29, 2026 06:00 PM CDT | Sport: Volleyball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Stevens Point Area Senior High School
+</description>
+      <pubDate>Thu, 29 Oct 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104652769</guid>
     </item>
     <item>
       <title>[Bay Port] No School — Thu Oct 29, 2026 07:00 PM CDT</title>
@@ -1289,6 +1282,34 @@ Site: Beaver Dam High School
 </description>
       <pubDate>Wed, 23 Dec 2026 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-102535342</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey vs Fox Cities Stars — Wed Dec 23, 2026 05:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Wed Dec 23, 2026 07:00 PM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Cornerstone Community Center
+Subsite: Rink 4
+</description>
+      <pubDate>Wed, 23 Dec 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110853</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Winter Recess — Wed Dec 23, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 24 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17627126@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey vs Notre Dame de la Baie Academy High School — Wed Dec 23, 2026 07:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Wed Dec 23, 2026 10:00 PM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Cornerstone Community Center
+Subsite: Rink 4
+</description>
+      <pubDate>Thu, 24 Dec 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110835</guid>
     </item>
   </channel>
 </rss>
