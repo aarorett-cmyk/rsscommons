@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 18:37:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:52:21 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Pirate Time Choice — Tue Oct 27, 2026 07:00 PM CDT</title>
       <description>No additional details.</description>
@@ -1316,6 +1316,12 @@ Subsite: Rink 4
       <description>No additional details.</description>
       <pubDate>Fri, 25 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">17643582@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Winter Recess — Fri Dec 25, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Sat, 26 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17643583@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
