@@ -4,13 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Tue, 27 Oct 2026 17:52:21 +0000</lastBuildDate>
-    <item>
-      <title>[Bay Port] Pirate Time Choice — Tue Oct 27, 2026 07:00 PM CDT</title>
-      <description>No additional details.</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17643328@bayport.hssdschools.org</guid>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 18:17:30 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Pirate Time Choice — Wed Oct 28, 2026 07:00 PM CDT</title>
       <description>No additional details.</description>
@@ -324,25 +318,25 @@ Subsite: East High School - 1300 Patriot Gym
       <guid isPermaLink="false">17643241@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Sports] Boys JV Hockey — Fri Nov 27, 2026 12:01 AM CST</title>
-      <description>Location:  2100 W Fairy Chasm Road, Milwaukee AL  53217 | Ends: Fri Nov 27, 2026 12:01 AM CST | Sport: Hockey
+      <title>[Sports] Boys JV Hockey @ Waunakee High School — Fri Nov 27, 2026 12:00 PM CST</title>
+      <description>Location:  2100 W Fairy Chasm Road, Milwaukee AL  53217 | Ends: Fri Nov 27, 2026 02:00 PM CST | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
 Site: Polly and Henry Uihlein Ice Arena
 Subsite: Uihlein Ice Arena
 </description>
-      <pubDate>Fri, 27 Nov 2026 06:01:00 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101109924</guid>
     </item>
     <item>
-      <title>[Sports] Boys Varsity Hockey — Fri Nov 27, 2026 12:01 AM CST</title>
-      <description>Location:  2100 W Fairy Chasm Road, Milwaukee AL  53217 | Ends: Fri Nov 27, 2026 12:01 AM CST | Sport: Hockey
+      <title>[Sports] Boys Varsity Hockey @ Waunakee High School — Fri Nov 27, 2026 02:00 PM CST</title>
+      <description>Location:  2100 W Fairy Chasm Road, Milwaukee AL  53217 | Ends: Fri Nov 27, 2026 04:00 PM CST | Sport: Hockey
 Level: Boys Varsity
 Team: Bay Area Storm
 Site: Polly and Henry Uihlein Ice Arena
 Subsite: Uihlein Ice Arena
 </description>
-      <pubDate>Fri, 27 Nov 2026 06:01:00 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101109891</guid>
     </item>
     <item>
@@ -1322,6 +1316,12 @@ Subsite: Rink 4
       <description>No additional details.</description>
       <pubDate>Sat, 26 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">17643583@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Winter Recess — Sat Dec 26, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Sun, 27 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17643584@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
