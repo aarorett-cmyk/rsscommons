@@ -4,19 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Wed, 28 Oct 2026 18:17:30 +0000</lastBuildDate>
-    <item>
-      <title>[Bay Port] Pirate Time Choice — Wed Oct 28, 2026 07:00 PM CDT</title>
-      <description>No additional details.</description>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17643633@bayport.hssdschools.org</guid>
-    </item>
-    <item>
-      <title>[Bay Port] Music Mayhem - Haunted House - New Location — Thu Oct 29, 2026 12:00 PM CDT</title>
-      <description>Location: 2475 Lineville Rd, Green Bay, WI 54313, USA | Ends: Thu Oct 29, 2026 06:00 PM CDT</description>
-      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17643712@bayport.hssdschools.org</guid>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 18:22:45 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Volleyball vs D.C. Everest High School — Thu Oct 29, 2026 05:00 PM CDT</title>
       <description>Location:  1201 Northpoint Dr, Stevens Point Wisconsin  54481 | Ends: Thu Oct 29, 2026 06:00 PM CDT | Sport: Volleyball
@@ -1322,6 +1310,66 @@ Subsite: Rink 4
       <description>No additional details.</description>
       <pubDate>Sun, 27 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">17643584@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Winter Recess — Sun Dec 27, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Mon, 28 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17643585@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: TBA
+Subsite: TBA
+</description>
+      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101585570</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110946</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110923</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Hockey @ Beaver Dam High School — Mon Dec 28, 2026 09:00 AM CST</title>
+      <description>Location:  500 Gould St, Beaver Dam WI  53916 | Ends: Mon Dec 28, 2026 06:00 PM CST | Sport: Hockey
+Level: Girls Varsity
+Team: Bay Area Ice Bears
+Site: Beaver Dam High School
+Subsite: Beaver Dam High School
+</description>
+      <pubDate>Mon, 28 Dec 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104588185</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Hockey @ Beaver Dam High School — Mon Dec 28, 2026 11:00 AM CST</title>
+      <description>Location:  500 Gould St, Beaver Dam WI  53916 | Ends: Mon Dec 28, 2026 01:00 PM CST | Sport: Hockey
+Level: Girls JV
+Team: Bay Area Ice Bears
+Site: Beaver Dam High School
+</description>
+      <pubDate>Mon, 28 Dec 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104588186</guid>
     </item>
   </channel>
 </rss>
