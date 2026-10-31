@@ -4,29 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 17:56:56 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Boys Varsity Football vs Neenah High School — Fri Oct 30, 2026 07:00 PM CDT</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Oct 30, 2026 08:00 PM CDT | Sport: Football
-Level: Boys Varsity
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Stadium
-</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-104466660</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Swimming vs Ashwaubenon High School — Sat Oct 31, 2026 09:00 AM CDT</title>
-      <description>Location:  2700 Lineville Rd, Green Bay WI  54313 | Ends: Sat Oct 31, 2026 03:00 PM CDT | Sport: Swimming
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Lineville Intermediate
-Subsite: Lineville Pool
-</description>
-      <pubDate>Sat, 31 Oct 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-99591545</guid>
-    </item>
+    <lastBuildDate>Sat, 31 Oct 2026 17:10:30 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls Varsity Volleyball vs West De Pere High School — Sat Oct 31, 2026 01:00 PM CDT</title>
       <description>Location:  2391 S Ridge Rd, Ashwaubenon WI  54304 | Ends: Sat Oct 31, 2026 02:00 PM CDT | Sport: Volleyball
@@ -1296,17 +1274,6 @@ Subsite: Rink 4
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
-Level: Boys JV
-Team: Bay Area Storm
-Site: Champion Center
-Subsite: Main Rink
-</description>
-      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101110946</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
       <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
@@ -1315,6 +1282,17 @@ Subsite: TBA
 </description>
       <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101585570</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110946</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
@@ -1407,6 +1385,34 @@ Site: Beaver Dam High School
 </description>
       <pubDate>Tue, 29 Dec 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-104588220</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Winter Recess — Tue Dec 29, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 30 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17661255@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey — Wed Dec 30, 2026 12:01 AM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Wed Dec 30, 2026 12:01 AM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Wed, 30 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110935</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey — Wed Dec 30, 2026 12:01 AM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Wed Dec 30, 2026 12:01 AM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Wed, 30 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110930</guid>
     </item>
   </channel>
 </rss>
