@@ -4,18 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Sat, 31 Oct 2026 17:10:30 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Girls Varsity Volleyball vs West De Pere High School — Sat Oct 31, 2026 01:00 PM CDT</title>
-      <description>Location:  2391 S Ridge Rd, Ashwaubenon WI  54304 | Ends: Sat Oct 31, 2026 02:00 PM CDT | Sport: Volleyball
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Ashwaubenon High School
-Subsite: Fieldhouse - All 
-</description>
-      <pubDate>Sat, 31 Oct 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-104652772</guid>
-    </item>
+    <lastBuildDate>Sun, 01 Nov 2026 17:51:54 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Pirate Time Homeroom — Tue Nov 03, 2026 06:00 PM CST</title>
       <description>No additional details.</description>
@@ -1413,6 +1402,12 @@ Subsite: Main Rink
 </description>
       <pubDate>Wed, 30 Dec 2026 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101110930</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Winter Recess — Wed Dec 30, 2026 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17661256@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
