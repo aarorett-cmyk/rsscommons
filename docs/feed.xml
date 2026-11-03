@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 21:39:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:24:39 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Pirate Time Homeroom — Tue Nov 03, 2026 06:00 PM CST</title>
       <description>No additional details.</description>
@@ -541,6 +541,17 @@ Subsite: The Ponds of Brookfield Ice Arena
       <description>Location: PAC | Ends: Mon Dec 07, 2026 03:00 PM CST</description>
       <pubDate>Mon, 07 Dec 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">17661635@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV2 Basketball vs Appleton North High School — Mon Dec 07, 2026 05:40 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Mon Dec 07, 2026 06:55 PM CST | Sport: Basketball
+Level: Girls JV2
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 4
+</description>
+      <pubDate>Mon, 07 Dec 2026 23:40:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-105293250</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Basketball vs Appleton North High School — Mon Dec 07, 2026 05:45 PM CST</title>
@@ -1274,17 +1285,6 @@ Subsite: Rink 4
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
-Level: Boys JV
-Team: Bay Area Storm
-Site: Champion Center
-Subsite: Main Rink
-</description>
-      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101110946</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
       <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
@@ -1293,6 +1293,17 @@ Subsite: TBA
 </description>
       <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101585570</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110946</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
@@ -1425,6 +1436,12 @@ Subsite: Main Rink
       <description>No additional details.</description>
       <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">17661257@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Winter Recess — Fri Jan 01, 2027 06:00 PM CST</title>
+      <description>No additional details.</description>
+      <pubDate>Sat, 02 Jan 2027 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17661258@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
