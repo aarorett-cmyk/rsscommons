@@ -3,18 +3,18 @@
   <channel>
     <title>My Merged Calendar Feed</title>
     <link></link>
-    <description>Auto-generated daily from Google Calendar + Arbiter iCal feeds.</description>
-    <lastBuildDate>Tue, 03 Nov 2026 19:24:39 +0000</lastBuildDate>
+    <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
+    <lastBuildDate>Wed, 04 Nov 2026 19:38:51 +0000</lastBuildDate>
     <item>
-      <title>[Bay Port] Pirate Time Homeroom — Tue Nov 03, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Pirate Time Homeroom — Wed Nov 04, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17660689@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Bay Port] Pirate Time Choice — Wed Nov 04, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Pirate Time Choice — Thu Nov 05, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661512@bayport.hssdschools.org</guid>
     </item>
     <item>
@@ -29,16 +29,10 @@ Subsite: Stadium
       <guid isPermaLink="false">GP-104466682</guid>
     </item>
     <item>
-      <title>[Bay Port] Craft Fair — Sat Nov 07, 2026 03:00 AM CST</title>
-      <description>Ends: Sat Nov 07, 2026 09:00 AM CST</description>
-      <pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17661704@bayport.hssdschools.org</guid>
-    </item>
-    <item>
-      <title>[Bay Port] Pops Concert — Sat Nov 07, 2026 01:00 PM CST</title>
+      <title>[Bay Port] Craft Fair — Sat Nov 07, 2026 09:00 AM CST</title>
       <description>Ends: Sat Nov 07, 2026 03:00 PM CST</description>
-      <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17661248@bayport.hssdschools.org</guid>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661704@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Swimming @ Hudson High School — Sat Nov 07, 2026 01:00 PM CST</title>
@@ -52,33 +46,28 @@ Subsite: Pool
       <guid isPermaLink="false">GP-101252520</guid>
     </item>
     <item>
-      <title>[Bay Port] Pirate Time Choice — Tue Nov 10, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Pops Concert — Sat Nov 07, 2026 07:00 PM CST</title>
+      <description>Ends: Sat Nov 07, 2026 09:00 PM CST</description>
+      <pubDate>Sat, 07 Nov 2026 19:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661248@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Wed Nov 11, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17660949@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Bay Port] Pirate Time Choice — Wed Nov 11, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Pirate Time Choice — Thu Nov 12, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17660708@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Bay Port] No School - Staff Only PD Day — Thu Nov 12, 2026 06:00 PM CST</title>
+      <title>[Bay Port] No School - Staff Only PD Day — Fri Nov 13, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17660942@bayport.hssdschools.org</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Hockey @ Central Wisconsin Storm — Tue Nov 17, 2026 04:00 PM CST</title>
-      <description>Location:  1201 Stewart Ave, Wausau WI  54401 | Ends: Tue Nov 17, 2026 08:00 PM CST | Sport: Hockey
-Level: Girls Varsity
-Team: Bay Area Ice Bears
-Site: Marathon Park Ice Arena
-Subsite: Marathon Park Ice Arena
-</description>
-      <pubDate>Tue, 17 Nov 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-103208493</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Basketball vs Appleton East High School — Tue Nov 17, 2026 05:45 PM CST</title>
@@ -92,12 +81,6 @@ Subsite: Gym - Main Court (1-3)
       <guid isPermaLink="false">GP-98961974</guid>
     </item>
     <item>
-      <title>[Bay Port] Pirate Time Homeroom — Tue Nov 17, 2026 06:00 PM CST</title>
-      <description>No additional details.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17661379@bayport.hssdschools.org</guid>
-    </item>
-    <item>
       <title>[Sports] Girls Varsity Basketball vs Appleton East High School — Tue Nov 17, 2026 07:00 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Nov 17, 2026 08:30 PM CST | Sport: Basketball
 Level: Girls Varsity
@@ -109,43 +92,82 @@ Subsite: Gym - Main Court (1-3)
       <guid isPermaLink="false">GP-98961911</guid>
     </item>
     <item>
-      <title>[Bay Port] Pirate Time Choice — Wed Nov 18, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Pirate Time Homeroom — Wed Nov 18, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661379@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Thu Nov 19, 2026 (all day)</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17660610@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Bay Port] Senior Pictures Due — Wed Nov 18, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Senior Pictures Due — Thu Nov 19, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661380@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Bay Port] Orchestra Concert — Thu Nov 19, 2026 01:00 PM CST</title>
-      <description>Location: PAC | Ends: Thu Nov 19, 2026 03:00 PM CST</description>
-      <pubDate>Thu, 19 Nov 2026 19:00:00 +0000</pubDate>
+      <title>[Sports] Girls Varsity Hockey @ Central Wisconsin Storm — Thu Nov 19, 2026 04:00 PM CST</title>
+      <description>Location:  1201 Stewart Ave, Wausau WI  54401 | Ends: Thu Nov 19, 2026 08:00 PM CST | Sport: Hockey
+Level: Girls Varsity
+Team: Bay Area Ice Bears
+Site: Marathon Park Ice Arena
+Subsite: Marathon Park Ice Arena
+</description>
+      <pubDate>Thu, 19 Nov 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-103208493</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Orchestra Concert — Thu Nov 19, 2026 07:00 PM CST</title>
+      <description>Location: PAC | Ends: Thu Nov 19, 2026 09:00 PM CST</description>
+      <pubDate>Thu, 19 Nov 2026 19:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661141@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Sports] Boys JV Hockey @ Neenah High School — Fri Nov 20, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 12:01 AM CST | Sport: Hockey
+      <title>[Sports] Boys JV Hockey @ Neenah High School — Fri Nov 20, 2026 04:30 PM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 08:30 PM CST | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
 Site: Champion Center
 Subsite: Champion Center Grand Chute
 </description>
-      <pubDate>Fri, 20 Nov 2026 06:01:00 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 22:30:00 +0000</pubDate>
       <guid isPermaLink="false">GP-104885249</guid>
     </item>
     <item>
-      <title>[Sports] Boys Varsity Hockey @ Neenah High School — Fri Nov 20, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 12:01 AM CST | Sport: Hockey
+      <title>[Sports] Boys Varsity Hockey vs Stevens Point Area Senior High — Fri Nov 20, 2026 04:30 PM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 08:30 PM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Seasonal Rink
+</description>
+      <pubDate>Fri, 20 Nov 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-105305362</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey vs Stevens Point Area Senior High — Fri Nov 20, 2026 04:30 PM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 08:30 PM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Fri, 20 Nov 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-105305370</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey @ Neenah High School — Fri Nov 20, 2026 04:45 PM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 08:45 PM CST | Sport: Hockey
 Level: Boys Varsity
 Team: Bay Area Storm
 Site: Champion Center
 Subsite: Champion Center Grand Chute
 </description>
-      <pubDate>Fri, 20 Nov 2026 06:01:00 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 22:45:00 +0000</pubDate>
       <guid isPermaLink="false">GP-104885194</guid>
     </item>
     <item>
@@ -169,12 +191,6 @@ Subsite: Main Gym
 </description>
       <pubDate>Sat, 21 Nov 2026 01:15:00 +0000</pubDate>
       <guid isPermaLink="false">GP-100736169</guid>
-    </item>
-    <item>
-      <title>[Bay Port] Show Choir Preview Show — Tue Nov 24, 2026 12:00 PM CST</title>
-      <description>Ends: Tue Nov 24, 2026 01:30 PM CST</description>
-      <pubDate>Tue, 24 Nov 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17660589@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Basketball vs Oshkosh West High School — Tue Nov 24, 2026 05:30 PM CST</title>
@@ -210,10 +226,10 @@ Subsite: East High School - 1317 New Gym
       <guid isPermaLink="false">GP-98959442</guid>
     </item>
     <item>
-      <title>[Bay Port] Thanksgiving Recess — Tue Nov 24, 2026 06:00 PM CST</title>
-      <description>No additional details.</description>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17661385@bayport.hssdschools.org</guid>
+      <title>[Bay Port] Show Choir Preview Show — Tue Nov 24, 2026 06:00 PM CST</title>
+      <description>Ends: Tue Nov 24, 2026 07:30 PM CST</description>
+      <pubDate>Tue, 24 Nov 2026 18:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17660589@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey vs Manitowoc United — Tue Nov 24, 2026 07:00 PM CST</title>
@@ -249,15 +265,21 @@ Subsite: East High School - 1300 Patriot Gym
       <guid isPermaLink="false">GP-98959383</guid>
     </item>
     <item>
-      <title>[Bay Port] Thanksgiving Recess — Wed Nov 25, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Thanksgiving Recess — Wed Nov 25, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661385@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Thanksgiving Recess — Thu Nov 26, 2026 (all day)</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661146@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Bay Port] Thanksgiving Recess — Thu Nov 26, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Thanksgiving Recess — Fri Nov 27, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661119@bayport.hssdschools.org</guid>
     </item>
     <item>
@@ -295,7 +317,7 @@ Subsite: Gym
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Sat Nov 28, 2026 12:01 AM CST</title>
-      <description>Location:  2100 W Fairy Chasm Road, Milwaukee AL  53217 | Ends: Sat Nov 28, 2026 12:01 AM CST | Sport: Hockey
+      <description>Location:  2100 W Fairy Chasm Road, Milwaukee AL  53217 | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
 Site: Polly and Henry Uihlein Ice Arena
@@ -306,7 +328,7 @@ Subsite: Uihlein Ice Arena
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey — Sat Nov 28, 2026 12:01 AM CST</title>
-      <description>Location:  2100 W Fairy Chasm Road, Milwaukee AL  53217 | Ends: Sat Nov 28, 2026 12:01 AM CST | Sport: Hockey
+      <description>Location:  2100 W Fairy Chasm Road, Milwaukee AL  53217 | Sport: Hockey
 Level: Boys Varsity
 Team: Bay Area Storm
 Site: Polly and Henry Uihlein Ice Arena
@@ -360,12 +382,6 @@ Subsite: Fieldhouse
       <guid isPermaLink="false">GP-99424447</guid>
     </item>
     <item>
-      <title>[Bay Port] Pirate Time Homeroom — Tue Dec 01, 2026 06:00 PM CST</title>
-      <description>No additional details.</description>
-      <pubDate>Wed, 02 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17661384@bayport.hssdschools.org</guid>
-    </item>
-    <item>
       <title>[Sports] Boys Varsity Basketball @ Stevens Point Area Senior High — Tue Dec 01, 2026 07:15 PM CST</title>
       <description>Location:  1201 Northpoint Dr, Stevens Point Wisconsin  54481 | Ends: Tue Dec 01, 2026 09:00 PM CST | Sport: Basketball
 Level: Boys Varsity
@@ -377,9 +393,15 @@ Subsite: Fieldhouse
       <guid isPermaLink="false">GP-99424401</guid>
     </item>
     <item>
-      <title>[Bay Port] Pirate Time Choice — Wed Dec 02, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Pirate Time Homeroom — Wed Dec 02, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Thu, 03 Dec 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Dec 2026 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661384@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Thu Dec 03, 2026 (all day)</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 03 Dec 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17660835@bayport.hssdschools.org</guid>
     </item>
     <item>
@@ -537,12 +559,6 @@ Subsite: The Ponds of Brookfield Ice Arena
       <guid isPermaLink="false">GP-103389494</guid>
     </item>
     <item>
-      <title>[Bay Port] Band Concert — Mon Dec 07, 2026 01:00 PM CST</title>
-      <description>Location: PAC | Ends: Mon Dec 07, 2026 03:00 PM CST</description>
-      <pubDate>Mon, 07 Dec 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17661635@bayport.hssdschools.org</guid>
-    </item>
-    <item>
       <title>[Sports] Girls JV2 Basketball vs Appleton North High School — Mon Dec 07, 2026 05:40 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Mon Dec 07, 2026 06:55 PM CST | Sport: Basketball
 Level: Girls JV2
@@ -563,6 +579,12 @@ Subsite: Gym - Main Court (1-3)
 </description>
       <pubDate>Mon, 07 Dec 2026 23:45:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99530181</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Band Concert — Mon Dec 07, 2026 07:00 PM CST</title>
+      <description>Location: PAC | Ends: Mon Dec 07, 2026 09:00 PM CST</description>
+      <pubDate>Mon, 07 Dec 2026 19:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661635@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Basketball vs Appleton North High School — Mon Dec 07, 2026 07:00 PM CST</title>
@@ -609,12 +631,6 @@ Subsite: Gym - Main Court (1-3)
       <guid isPermaLink="false">GP-99437389</guid>
     </item>
     <item>
-      <title>[Bay Port] Pirate Time Choice — Tue Dec 08, 2026 06:00 PM CST</title>
-      <description>No additional details.</description>
-      <pubDate>Wed, 09 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17661157@bayport.hssdschools.org</guid>
-    </item>
-    <item>
       <title>[Sports] Boys Varsity Basketball vs Appleton North High School — Tue Dec 08, 2026 07:00 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 08, 2026 08:30 PM CST | Sport: Basketball
 Level: Boys Varsity
@@ -637,9 +653,15 @@ Subsite: Main Rink
       <guid isPermaLink="false">GP-101110282</guid>
     </item>
     <item>
-      <title>[Bay Port] Pirate Time Choice — Wed Dec 09, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Pirate Time Choice — Wed Dec 09, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Thu, 10 Dec 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Dec 2026 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661157@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Thu Dec 10, 2026 (all day)</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 10 Dec 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661410@bayport.hssdschools.org</guid>
     </item>
     <item>
@@ -774,12 +796,6 @@ Subsite: Triton Center Main
       <guid isPermaLink="false">GP-99654226</guid>
     </item>
     <item>
-      <title>[Bay Port] Battle on the Bay Wrestling Tournament — Fri Dec 11, 2026 06:00 PM CST</title>
-      <description>No additional details.</description>
-      <pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17661494@bayport.hssdschools.org</guid>
-    </item>
-    <item>
       <title>[Sports] Girls Varsity Basketball @ Notre Dame de la Baie Academy High School — Fri Dec 11, 2026 07:00 PM CST</title>
       <description>Location:  610 Maryhill Dr, Green Bay WI  54303 | Ends: Fri Dec 11, 2026 09:00 PM CST | Sport: Basketball
 Level: Girls Varsity
@@ -800,6 +816,12 @@ Subsite: Rink 1
 </description>
       <pubDate>Sat, 12 Dec 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99114845</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Battle on the Bay Wrestling Tournament — Sat Dec 12, 2026 (all day)</title>
+      <description>No additional details.</description>
+      <pubDate>Sat, 12 Dec 2026 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661494@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Wrestling vs Escanaba High School — Sat Dec 12, 2026 08:00 AM CST</title>
@@ -879,9 +901,9 @@ Subsite: Rink 3
       <guid isPermaLink="false">GP-101110425</guid>
     </item>
     <item>
-      <title>[Bay Port] Orchestra Concert — Mon Dec 14, 2026 01:00 PM CST</title>
-      <description>Ends: Mon Dec 14, 2026 03:00 PM CST</description>
-      <pubDate>Mon, 14 Dec 2026 19:00:00 +0000</pubDate>
+      <title>[Bay Port] Orchestra Concert — Mon Dec 14, 2026 07:00 PM CST</title>
+      <description>Ends: Mon Dec 14, 2026 09:00 PM CST</description>
+      <pubDate>Mon, 14 Dec 2026 19:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661242@bayport.hssdschools.org</guid>
     </item>
     <item>
@@ -940,12 +962,6 @@ Subsite: Gym - Court 1
       <guid isPermaLink="false">GP-99654234</guid>
     </item>
     <item>
-      <title>[Bay Port] Pirate Time Homeroom — Tue Dec 15, 2026 06:00 PM CST</title>
-      <description>No additional details.</description>
-      <pubDate>Wed, 16 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17661434@bayport.hssdschools.org</guid>
-    </item>
-    <item>
       <title>[Sports] Boys JV Hockey @ De Pere Voyagers Hockey Co-op — Tue Dec 15, 2026 06:00 PM CST</title>
       <description>Location:  1450 Fort Howard Ave, De Pere Wisconsin  54115 | Ends: Tue Dec 15, 2026 07:45 PM CST | Sport: Hockey
 Level: Boys JV
@@ -1001,9 +1017,15 @@ Subsite: Ice Rink
       <guid isPermaLink="false">GP-102294103</guid>
     </item>
     <item>
-      <title>[Bay Port] Pirate Time Choice — Wed Dec 16, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Pirate Time Homeroom — Wed Dec 16, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Thu, 17 Dec 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Dec 2026 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661434@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Thu Dec 17, 2026 (all day)</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 17 Dec 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17660600@bayport.hssdschools.org</guid>
     </item>
     <item>
@@ -1183,12 +1205,6 @@ Subsite: JFK Fieldhouse Main
       <guid isPermaLink="false">GP-99654257</guid>
     </item>
     <item>
-      <title>[Bay Port] Jolabokaflod — Tue Dec 22, 2026 06:00 PM CST</title>
-      <description>No additional details.</description>
-      <pubDate>Wed, 23 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17661716@bayport.hssdschools.org</guid>
-    </item>
-    <item>
       <title>[Sports] Boys Varsity Basketball vs Manitowoc Lincoln High School - Ships — Tue Dec 22, 2026 07:00 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 22, 2026 09:00 PM CST | Sport: Basketball
 Level: Boys Varsity
@@ -1232,6 +1248,12 @@ Site: Beaver Dam High School
       <guid isPermaLink="false">GP-102535342</guid>
     </item>
     <item>
+      <title>[Bay Port] Jolabokaflod — Wed Dec 23, 2026 (all day)</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 23 Dec 2026 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661716@bayport.hssdschools.org</guid>
+    </item>
+    <item>
       <title>[Sports] Boys JV Hockey vs Fox Cities Stars — Wed Dec 23, 2026 05:00 PM CST</title>
       <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Wed Dec 23, 2026 07:00 PM CST | Sport: Hockey
 Level: Boys JV
@@ -1241,12 +1263,6 @@ Subsite: Rink 4
 </description>
       <pubDate>Wed, 23 Dec 2026 23:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101110853</guid>
-    </item>
-    <item>
-      <title>[Bay Port] Winter Recess — Wed Dec 23, 2026 06:00 PM CST</title>
-      <description>No additional details.</description>
-      <pubDate>Thu, 24 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">17661249@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey vs Notre Dame de la Baie Academy High School — Wed Dec 23, 2026 07:00 PM CST</title>
@@ -1260,43 +1276,38 @@ Subsite: Rink 4
       <guid isPermaLink="false">GP-101110835</guid>
     </item>
     <item>
-      <title>[Bay Port] Winter Recess — Thu Dec 24, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Winter Recess — Thu Dec 24, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Fri, 25 Dec 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Dec 2026 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661249@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Winter Recess — Fri Dec 25, 2026 (all day)</title>
+      <description>No additional details.</description>
+      <pubDate>Fri, 25 Dec 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661250@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Bay Port] Winter Recess — Fri Dec 25, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Winter Recess — Sat Dec 26, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Sat, 26 Dec 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Dec 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661251@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Bay Port] Winter Recess — Sat Dec 26, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Winter Recess — Sun Dec 27, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Sun, 27 Dec 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Dec 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661252@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Bay Port] Winter Recess — Sun Dec 27, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Winter Recess — Mon Dec 28, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Mon, 28 Dec 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Dec 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661253@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
-Level: Boys JV
-Team: Bay Area Storm
-Site: TBA
-Subsite: TBA
-</description>
-      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101585570</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
 Site: Champion Center
@@ -1306,8 +1317,19 @@ Subsite: Main Rink
       <guid isPermaLink="false">GP-101110946</guid>
     </item>
     <item>
+      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: TBA
+Subsite: TBA
+</description>
+      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101585570</guid>
+    </item>
+    <item>
       <title>[Sports] Boys Varsity Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Mon Dec 28, 2026 12:01 AM CST | Sport: Hockey
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
 Level: Boys Varsity
 Team: Bay Area Storm
 Site: Champion Center
@@ -1338,14 +1360,14 @@ Site: Beaver Dam High School
       <guid isPermaLink="false">GP-104588186</guid>
     </item>
     <item>
-      <title>[Bay Port] Winter Recess — Mon Dec 28, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Winter Recess — Tue Dec 29, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Tue, 29 Dec 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Dec 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661254@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Tue Dec 29, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Tue Dec 29, 2026 12:01 AM CST | Sport: Hockey
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
 Site: Champion Center
@@ -1356,7 +1378,7 @@ Subsite: Main Rink
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey — Tue Dec 29, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Tue Dec 29, 2026 12:01 AM CST | Sport: Hockey
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
 Level: Boys Varsity
 Team: Bay Area Storm
 Site: Champion Center
@@ -1398,14 +1420,14 @@ Site: Beaver Dam High School
       <guid isPermaLink="false">GP-104588220</guid>
     </item>
     <item>
-      <title>[Bay Port] Winter Recess — Tue Dec 29, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Winter Recess — Wed Dec 30, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Wed, 30 Dec 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Dec 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661255@bayport.hssdschools.org</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Wed Dec 30, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Wed Dec 30, 2026 12:01 AM CST | Sport: Hockey
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
 Site: Champion Center
@@ -1416,7 +1438,7 @@ Subsite: Main Rink
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey — Wed Dec 30, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Wed Dec 30, 2026 12:01 AM CST | Sport: Hockey
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
 Level: Boys Varsity
 Team: Bay Area Storm
 Site: Champion Center
@@ -1426,22 +1448,39 @@ Subsite: Main Rink
       <guid isPermaLink="false">GP-101110930</guid>
     </item>
     <item>
-      <title>[Bay Port] Winter Recess — Wed Dec 30, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Winter Recess — Thu Dec 31, 2026 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Thu, 31 Dec 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661256@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Bay Port] Winter Recess — Thu Dec 31, 2026 06:00 PM CST</title>
+      <title>[Bay Port] Winter Recess — Fri Jan 01, 2027 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2027 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661257@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Bay Port] Winter Recess — Fri Jan 01, 2027 06:00 PM CST</title>
+      <title>[Bay Port] Winter Recess — Sat Jan 02, 2027 (all day)</title>
       <description>No additional details.</description>
-      <pubDate>Sat, 02 Jan 2027 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Jan 2027 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661258@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Basketball @ Homestead High School — Sat Jan 02, 2027 07:45 PM CST</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Sat Jan 02, 2027 09:15 PM CST | Sport: Basketball
+Level: Boys Varsity
+Team: Bay Port High School
+Site: TBA
+Subsite: TBA
+</description>
+      <pubDate>Sun, 03 Jan 2027 01:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102285835</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Winter Recess — Sun Jan 03, 2027 (all day)</title>
+      <description>No additional details.</description>
+      <pubDate>Sun, 03 Jan 2027 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661259@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
