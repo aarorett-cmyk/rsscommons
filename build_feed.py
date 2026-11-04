@@ -7,34 +7,33 @@ Calendar URLs are read from the CALENDAR_URLS environment variable,
 as a comma-separated list. Each entry can optionally have a friendly
 label prefixed like  Label|https://...ics , e.g.:
 
-  CALENDAR_URLS="Personal|https://calendar.google.com/.../basic.ics,Officiating|https://www.arbitersports.com/.../feed.ics"
+  CALENDAR_URLS="Bay Port|https://.../calendar.ics,Sports|https://.../schedule.ics"
 
-Only events in the future (or within LOOKBACK_DAYS in the past) are
-included, and only the next LOOKAHEAD_DAYS are included, to keep the
-feed a reasonable size.
+Only events that have not finished yet are included, up to
+LOOKAHEAD_DAYS into the future. Times are shown in Central time.
+All-day events are shown by date only (no time).
 """
 
 import os
 import sys
 import hashlib
 from datetime import datetime, timedelta, date, timezone
-from zoneinfo import ZoneInfo
-
-CENTRAL = ZoneInfo("America/Chicago")  # auto-adjusts for CST/CDT
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
+from zoneinfo import ZoneInfo
 
 import requests
 from icalendar import Calendar
+
+CENTRAL = ZoneInfo("America/Chicago")  # auto-adjusts for CST/CDT
 
 LOOKBACK_DAYS = 0
 LOOKAHEAD_DAYS = 60
 OUTPUT_PATH = "docs/feed.xml"
 
-# Set these two for your public feed
 FEED_TITLE = "My Merged Calendar Feed"
 FEED_LINK = os.environ.get("FEED_PUBLIC_URL", "https://example.github.io/ical-to-rss/feed.xml")
-FEED_DESCRIPTION = "Auto-generated daily from Google Calendar + Arbiter iCal feeds."
+FEED_DESCRIPTION = "Auto-generated daily from the Bay Port calendar and Arbiter sports schedule."
 
 
 def parse_calendar_env():
@@ -56,15 +55,20 @@ def parse_calendar_env():
     return sources
 
 
-def to_datetime(value):
-    """Normalize icalendar date/datetime values to timezone-aware datetimes."""
+def normalize(value):
+    """
+    Turn an icalendar value into (aware_datetime, is_all_day).
+    All-day events (plain dates) become midnight Central on that date,
+    so they are never shifted onto the neighbouring day.
+    """
     if isinstance(value, datetime):
         if value.tzinfo is None:
-            return value.replace(tzinfo=timezone.utc)
-        return value
+            # Floating time: treat as Central local time
+            return value.replace(tzinfo=CENTRAL), False
+        return value, False
     if isinstance(value, date):
-        return datetime(value.year, value.month, value.day, tzinfo=timezone.utc)
-    return None
+        return datetime(value.year, value.month, value.day, tzinfo=CENTRAL), True
+    return None, False
 
 
 def fetch_events(label, url):
@@ -91,25 +95,51 @@ def fetch_events(label, url):
         description = str(component.get("description", "")) or ""
         uid = str(component.get("uid", ""))
 
-        dtstart = component.get("dtstart")
-        dtstart = to_datetime(dtstart.dt) if dtstart else None
-        if dtstart is None:
+        dtstart_prop = component.get("dtstart")
+        if dtstart_prop is None:
+            continue
+        start, all_day = normalize(dtstart_prop.dt)
+        if start is None:
             continue
 
-        dtend = component.get("dtend")
-        dtend = to_datetime(dtend.dt) if dtend else None
+        dtend_prop = component.get("dtend")
+
+        # Some calendar systems write all-day events as a bare midnight-UTC
+        # timestamp with no end time. Treat those as all-day on that UTC date
+        # so they aren't shifted back onto the previous evening in Central time.
+        if (not all_day and dtend_prop is None
+                and start.utcoffset() == timedelta(0)
+                and (start.hour, start.minute, start.second) == (0, 0, 0)):
+            utc_day = start.astimezone(timezone.utc).date()
+            start = datetime(utc_day.year, utc_day.month, utc_day.day, tzinfo=CENTRAL)
+            all_day = True
+
+        end = None
+        if dtend_prop is not None:
+            end, _ = normalize(dtend_prop.dt)
+        if end is None:
+            end = start + (timedelta(days=1) if all_day else timedelta(0))
 
         events.append({
             "label": label,
             "summary": summary,
             "location": location,
             "description": description,
-            "uid": uid or hashlib.md5(f"{label}{summary}{dtstart}".encode()).hexdigest(),
-            "start": dtstart,
-            "end": dtend,
+            "uid": uid or hashlib.md5(f"{label}{summary}{start}".encode()).hexdigest(),
+            "start": start,
+            "end": end,
+            "all_day": all_day,
         })
 
     return events
+
+
+def fmt_dt(dt):
+    return dt.astimezone(CENTRAL).strftime("%a %b %d, %Y %I:%M %p %Z")
+
+
+def fmt_day(dt):
+    return dt.strftime("%a %b %d, %Y")
 
 
 def build_rss(events):
@@ -117,19 +147,23 @@ def build_rss(events):
     window_start = now - timedelta(days=LOOKBACK_DAYS)
     window_end = now + timedelta(days=LOOKAHEAD_DAYS)
 
-    events = [e for e in events if window_start <= e["start"] <= window_end]
+    # Keep anything that hasn't finished yet (all-day events end at the
+    # start of the following day) and starts within the look-ahead window.
+    events = [e for e in events if e["end"] >= window_start and e["start"] <= window_end]
     events.sort(key=lambda e: e["start"])
 
     items_xml = []
     for e in events:
-        start_central = e["start"].astimezone(CENTRAL)
-        title = f"[{e['label']}] {e['summary']} — {start_central.strftime('%a %b %d, %Y %I:%M %p %Z')}"
+        if e["all_day"]:
+            title = f"[{e['label']}] {e['summary']} — {fmt_day(e['start'])} (all day)"
+        else:
+            title = f"[{e['label']}] {e['summary']} — {fmt_dt(e['start'])}"
+
         desc_parts = []
         if e["location"]:
             desc_parts.append(f"Location: {e['location']}")
-        if e["end"]:
-            end_central = e["end"].astimezone(CENTRAL)
-            desc_parts.append(f"Ends: {end_central.strftime('%a %b %d, %Y %I:%M %p %Z')}")
+        if not e["all_day"] and e["end"] > e["start"]:
+            desc_parts.append(f"Ends: {fmt_dt(e['end'])}")
         if e["description"]:
             desc_parts.append(e["description"])
         description = " | ".join(desc_parts) if desc_parts else "No additional details."
