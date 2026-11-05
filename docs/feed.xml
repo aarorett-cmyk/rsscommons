@@ -4,13 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Wed, 04 Nov 2026 19:39:37 +0000</lastBuildDate>
-    <item>
-      <title>[Bay Port] Pirate Time Homeroom — Wed Nov 04, 2026 (all day)</title>
-      <description>No additional details.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 -0600</pubDate>
-      <guid isPermaLink="false">17660689@bayport.hssdschools.org</guid>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 19:50:02 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Pirate Time Choice — Thu Nov 05, 2026 (all day)</title>
       <description>No additional details.</description>
@@ -1307,17 +1301,6 @@ Subsite: Rink 4
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
-Level: Boys JV
-Team: Bay Area Storm
-Site: Champion Center
-Subsite: Main Rink
-</description>
-      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101110946</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
       <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
@@ -1326,6 +1309,17 @@ Subsite: TBA
 </description>
       <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101585570</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110946</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
