@@ -4,13 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 19:50:02 +0000</lastBuildDate>
-    <item>
-      <title>[Bay Port] Pirate Time Choice — Thu Nov 05, 2026 (all day)</title>
-      <description>No additional details.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0600</pubDate>
-      <guid isPermaLink="false">17661512@bayport.hssdschools.org</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 19:14:54 +0000</lastBuildDate>
     <item>
       <title>[Sports] Boys Varsity Football vs Waunakee High School — Fri Nov 06, 2026 07:00 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Nov 06, 2026 08:00 PM CST | Sport: Football
@@ -185,6 +179,17 @@ Subsite: Main Gym
 </description>
       <pubDate>Sat, 21 Nov 2026 01:15:00 +0000</pubDate>
       <guid isPermaLink="false">GP-100736169</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV2 Basketball @ Manitowoc Lutheran High School — Tue Nov 24, 2026 04:30 PM CST</title>
+      <description>Location:  4045 Lancer Cir, Manitowoc WI  54220 | Ends: Tue Nov 24, 2026 05:45 PM CST | Sport: Basketball
+Level: Girls JV2
+Team: Bay Port High School
+Site: Manitowoc Lutheran High School
+Subsite: Aux Gym
+</description>
+      <pubDate>Tue, 24 Nov 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-98598133</guid>
     </item>
     <item>
       <title>[Sports] Girls JV Basketball vs Oshkosh West High School — Tue Nov 24, 2026 05:30 PM CST</title>
@@ -1045,7 +1050,7 @@ Subsite: Fieldhouse - All
       <guid isPermaLink="false">GP-99592866</guid>
     </item>
     <item>
-      <title>[Sports] Girls Varsity Wrestling vs Ashwaubenon High School — Thu Dec 17, 2026 05:00 PM CST</title>
+      <title>[Sports] Girls Varsity Wrestling vs Oconto High School — Thu Dec 17, 2026 05:00 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Thu Dec 17, 2026 08:00 PM CST | Sport: Wrestling
 Level: Girls Varsity
 Team: Bay Port High School
@@ -1301,17 +1306,6 @@ Subsite: Rink 4
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Sport: Hockey
-Level: Boys JV
-Team: Bay Area Storm
-Site: TBA
-Subsite: TBA
-</description>
-      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101585570</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
       <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
@@ -1320,6 +1314,17 @@ Subsite: Main Rink
 </description>
       <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101110946</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: TBA
+Subsite: TBA
+</description>
+      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101585570</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
