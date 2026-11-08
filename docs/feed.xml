@@ -4,30 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Sat, 07 Nov 2026 17:42:21 +0000</lastBuildDate>
-    <item>
-      <title>[Bay Port] Craft Fair — Sat Nov 07, 2026 09:00 AM CST</title>
-      <description>Ends: Sat Nov 07, 2026 03:00 PM CST</description>
-      <pubDate>Sat, 07 Nov 2026 09:00:00 -0600</pubDate>
-      <guid isPermaLink="false">17661704@bayport.hssdschools.org</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Swimming @ Hudson High School — Sat Nov 07, 2026 01:00 PM CST</title>
-      <description>Location:  1501 Vine St, Hudson WI  54016 | Ends: Sat Nov 07, 2026 05:00 PM CST | Sport: Swimming
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Hudson High School
-Subsite: Pool
-</description>
-      <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101252520</guid>
-    </item>
-    <item>
-      <title>[Bay Port] Pops Concert — Sat Nov 07, 2026 07:00 PM CST</title>
-      <description>Ends: Sat Nov 07, 2026 09:00 PM CST</description>
-      <pubDate>Sat, 07 Nov 2026 19:00:00 -0600</pubDate>
-      <guid isPermaLink="false">17661248@bayport.hssdschools.org</guid>
-    </item>
+    <lastBuildDate>Sun, 08 Nov 2026 17:52:16 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Pirate Time Choice — Wed Nov 11, 2026 (all day)</title>
       <description>No additional details.</description>
@@ -1585,6 +1562,12 @@ Subsite: Ice Rink
       <description>No additional details.</description>
       <pubDate>Wed, 06 Jan 2027 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17660771@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Choice — Thu Jan 07, 2027 (all day)</title>
+      <description>No additional details.</description>
+      <pubDate>Thu, 07 Jan 2027 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17661728@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
