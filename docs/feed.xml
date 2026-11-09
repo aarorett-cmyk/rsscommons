@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Sun, 08 Nov 2026 17:52:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 22:14:29 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Pirate Time Choice — Wed Nov 11, 2026 (all day)</title>
       <description>No additional details.</description>
@@ -1568,6 +1568,50 @@ Subsite: Ice Rink
       <description>No additional details.</description>
       <pubDate>Thu, 07 Jan 2027 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17661728@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey vs Coop - Kettle Moraine High School + 2 Others — Thu Jan 07, 2027 05:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Thu Jan 07, 2027 07:00 PM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Thu, 07 Jan 2027 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101111102</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Wrestling @ De Pere High School — Thu Jan 07, 2027 06:00 PM CST</title>
+      <description>Location:  1700 Chicago Street, De Pere WI  54115 | Ends: Thu Jan 07, 2027 08:00 PM CST | Sport: Wrestling
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: De Pere High School
+Subsite: Fieldhouse Main Court
+</description>
+      <pubDate>Fri, 08 Jan 2027 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99592821</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Wrestling @ De Pere High School — Thu Jan 07, 2027 06:30 PM CST</title>
+      <description>Location:  1700 Chicago Street, De Pere WI  54115 | Ends: Thu Jan 07, 2027 08:30 PM CST | Sport: Wrestling
+Level: Boys Varsity
+Team: Bay Port High School
+Site: De Pere High School
+Subsite: Fieldhouse Main Court
+</description>
+      <pubDate>Fri, 08 Jan 2027 00:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99592869</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey vs Coop - Kettle Moraine High School + 2 Others — Thu Jan 07, 2027 07:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Thu Jan 07, 2027 10:00 PM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Fri, 08 Jan 2027 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101111095</guid>
     </item>
   </channel>
 </rss>
