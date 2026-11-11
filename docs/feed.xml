@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 19:37:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 19:29:31 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Pirate Time Choice — Wed Nov 11, 2026 (all day)</title>
       <description>No additional details.</description>
@@ -1706,6 +1706,28 @@ Subsite: Ashwaubenon Community Pool
 </description>
       <pubDate>Sat, 09 Jan 2027 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-98522756</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey vs Coop - Waukesha North High School + 3 Others — Sat Jan 09, 2027 05:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Sat Jan 09, 2027 07:00 PM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Sat, 09 Jan 2027 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101112329</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey vs Coop - Waukesha North High School + 3 Others — Sat Jan 09, 2027 07:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Sat Jan 09, 2027 10:00 PM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Sun, 10 Jan 2027 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101112310</guid>
     </item>
   </channel>
 </rss>
