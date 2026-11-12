@@ -4,13 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Wed, 11 Nov 2026 19:29:31 +0000</lastBuildDate>
-    <item>
-      <title>[Bay Port] Pirate Time Choice — Wed Nov 11, 2026 (all day)</title>
-      <description>No additional details.</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0600</pubDate>
-      <guid isPermaLink="false">17695107@bayport.hssdschools.org</guid>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 19:48:30 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Pirate Time Choice — Thu Nov 12, 2026 (all day)</title>
       <description>No additional details.</description>
@@ -202,6 +196,17 @@ Subsite: East High School - 1317 New Gym
       <guid isPermaLink="false">GP-98959442</guid>
     </item>
     <item>
+      <title>[Sports] Girls JV Basketball @ Luxemburg-Casco High School — Tue Nov 24, 2026 05:45 PM CST</title>
+      <description>Location:  512 Center Drive 512 Center Drive, Luxemburg WI  54217 | Ends: Tue Nov 24, 2026 07:00 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: Luxemburg-Casco High School
+Subsite: High School - Gymnasium
+</description>
+      <pubDate>Tue, 24 Nov 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-98151530</guid>
+    </item>
+    <item>
       <title>[Bay Port] Show Choir Preview Show — Tue Nov 24, 2026 06:00 PM CST</title>
       <description>Ends: Tue Nov 24, 2026 07:30 PM CST</description>
       <pubDate>Tue, 24 Nov 2026 18:00:00 -0600</pubDate>
@@ -356,6 +361,17 @@ Subsite: Fieldhouse
 </description>
       <pubDate>Tue, 01 Dec 2026 23:45:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99424447</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Basketball @ Two Rivers High School — Tue Dec 01, 2026 05:45 PM CST</title>
+      <description>Location:  4519 Lincoln Ave, Two Rivers WI  54241 | Ends: Tue Dec 01, 2026 07:00 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: Two Rivers High School
+Subsite: Gym
+</description>
+      <pubDate>Tue, 01 Dec 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100289487</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Basketball @ Stevens Point Area Senior High — Tue Dec 01, 2026 07:15 PM CST</title>
@@ -1283,17 +1299,6 @@ Subsite: Rink 4
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
-Level: Boys JV
-Team: Bay Area Storm
-Site: Champion Center
-Subsite: Main Rink
-</description>
-      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101110946</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
       <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
@@ -1302,6 +1307,17 @@ Subsite: TBA
 </description>
       <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101585570</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110946</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
