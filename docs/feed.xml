@@ -4,13 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Thu, 12 Nov 2026 19:48:30 +0000</lastBuildDate>
-    <item>
-      <title>[Bay Port] Pirate Time Choice — Thu Nov 12, 2026 (all day)</title>
-      <description>No additional details.</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 -0600</pubDate>
-      <guid isPermaLink="false">17696230@bayport.hssdschools.org</guid>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 19:31:05 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] No School - Staff Only PD Day — Fri Nov 13, 2026 (all day)</title>
       <description>No additional details.</description>
@@ -80,10 +74,32 @@ Subsite: Marathon Park Ice Arena
       <guid isPermaLink="false">GP-103208493</guid>
     </item>
     <item>
+      <title>[Sports] Girls JV Basketball @ Kaukauna High School - JV — Thu Nov 19, 2026 05:45 PM CST</title>
+      <description>Location:  1701 County Road CE, Kaukauna Wisconsin  54130-3916 | Ends: Thu Nov 19, 2026 07:15 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: Kaukauna High School
+Subsite: Main Gym
+</description>
+      <pubDate>Thu, 19 Nov 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100393743</guid>
+    </item>
+    <item>
       <title>[Bay Port] Orchestra Concert — Thu Nov 19, 2026 07:00 PM CST</title>
       <description>Location: PAC | Ends: Thu Nov 19, 2026 09:00 PM CST</description>
       <pubDate>Thu, 19 Nov 2026 19:00:00 -0600</pubDate>
       <guid isPermaLink="false">17695211@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Basketball @ Kaukauna High School — Thu Nov 19, 2026 07:15 PM CST</title>
+      <description>Location:  1701 County Road CE, Kaukauna Wisconsin  54130-3916 | Ends: Thu Nov 19, 2026 08:45 PM CST | Sport: Basketball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Kaukauna High School
+Subsite: Main Gym
+</description>
+      <pubDate>Fri, 20 Nov 2026 01:15:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100736169</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Hockey @ Neenah High School — Fri Nov 20, 2026 04:30 PM CST</title>
@@ -128,28 +144,6 @@ Subsite: Champion Center Grand Chute
 </description>
       <pubDate>Fri, 20 Nov 2026 22:45:00 +0000</pubDate>
       <guid isPermaLink="false">GP-104885194</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls JV Basketball @ Kaukauna High School - JV — Fri Nov 20, 2026 05:45 PM CST</title>
-      <description>Location:  1701 County Road CE, Kaukauna Wisconsin  54130-3916 | Ends: Fri Nov 20, 2026 07:15 PM CST | Sport: Basketball
-Level: Girls JV
-Team: Bay Port High School
-Site: Kaukauna High School
-Subsite: Main Gym
-</description>
-      <pubDate>Fri, 20 Nov 2026 23:45:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100393743</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Basketball @ Kaukauna High School — Fri Nov 20, 2026 07:15 PM CST</title>
-      <description>Location:  1701 County Road CE, Kaukauna Wisconsin  54130-3916 | Ends: Fri Nov 20, 2026 08:45 PM CST | Sport: Basketball
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Kaukauna High School
-Subsite: Main Gym
-</description>
-      <pubDate>Sat, 21 Nov 2026 01:15:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-100736169</guid>
     </item>
     <item>
       <title>[Sports] Girls JV2 Basketball @ Manitowoc Lutheran High School — Tue Nov 24, 2026 04:30 PM CST</title>
@@ -397,6 +391,16 @@ Subsite: Fieldhouse
       <guid isPermaLink="false">17695806@bayport.hssdschools.org</guid>
     </item>
     <item>
+      <title>[Sports] Girls Varsity Wrestling — Thu Dec 03, 2026 05:00 PM CST</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Thu Dec 03, 2026 08:30 PM CST | Sport: Wrestling
+Level: Girls Varsity
+Team: Bay Port High School
+Site: TBA
+</description>
+      <pubDate>Thu, 03 Dec 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-98068981</guid>
+    </item>
+    <item>
       <title>[Sports] Girls Varsity Wrestling @ Bonduel High School — Thu Dec 03, 2026 05:00 PM CST</title>
       <description>Location:  400 Green Bay Street Po Box 310, Bonduel WI  54107 | Ends: Thu Dec 03, 2026 08:30 PM CST | Sport: Wrestling
 Level: Girls Varsity
@@ -405,7 +409,7 @@ Site: Bonduel High School
 Subsite: High School Gym
 </description>
       <pubDate>Thu, 03 Dec 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-98068981</guid>
+      <guid isPermaLink="false">GP-105565233</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Wrestling vs Neenah High School — Thu Dec 03, 2026 06:00 PM CST</title>
