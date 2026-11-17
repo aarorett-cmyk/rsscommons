@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 21:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:45:12 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls JV Basketball vs Appleton East High School — Tue Nov 17, 2026 05:45 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Nov 17, 2026 07:00 PM CST | Sport: Basketball
@@ -263,6 +263,17 @@ Subsite: Uihlein Ice Arena
       <guid isPermaLink="false">GP-101109891</guid>
     </item>
     <item>
+      <title>[Sports] Girls Varsity Basketball @ Kettle Moraine High School — Fri Nov 27, 2026 03:30 PM CST</title>
+      <description>Location:  349 N. Oak Crest Dr., Wales WI  53183 | Ends: Fri Nov 27, 2026 05:00 PM CST | Sport: Basketball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Kettle Moraine High School
+Subsite: Gym
+</description>
+      <pubDate>Fri, 27 Nov 2026 21:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-105638366</guid>
+    </item>
+    <item>
       <title>[Sports] Girls Varsity Basketball @ Kettle Moraine High School — Fri Nov 27, 2026 07:00 PM CST</title>
       <description>Location:  349 N. Oak Crest Dr., Wales WI  53183 | Ends: Fri Nov 27, 2026 08:30 PM CST | Sport: Basketball
 Level: Girls Varsity
@@ -294,6 +305,17 @@ Subsite: Uihlein Ice Arena
 </description>
       <pubDate>Sat, 28 Nov 2026 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101109899</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Basketball @ Wisconsin Lutheran High School — Sat Nov 28, 2026 05:15 PM CST</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Sat Nov 28, 2026 06:45 PM CST | Sport: Basketball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: TBA
+Subsite: TBA
+</description>
+      <pubDate>Sat, 28 Nov 2026 23:15:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-105638440</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Basketball @ Kettle Moraine High School — Sat Nov 28, 2026 07:00 PM CST</title>
@@ -1151,6 +1173,28 @@ Subsite: Acuity Fieldhouse
       <guid isPermaLink="false">GP-102901211</guid>
     </item>
     <item>
+      <title>[Sports] Boys JV Basketball vs Freedom High School - JV 1 — Tue Dec 22, 2026 04:15 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 22, 2026 05:30 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV3
+Site: Bay Port High School
+Subsite: Gym - Court 4
+</description>
+      <pubDate>Tue, 22 Dec 2026 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-105638850</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV2 Basketball @ Saint Mary Catholic High School — Tue Dec 22, 2026 05:30 PM CST</title>
+      <description>Location:  1050 Zephyr Dr, Neenah WI  54956 | Ends: Tue Dec 22, 2026 06:45 PM CST | Sport: Basketball
+Level: Girls JV2
+Team: Bay Port High School
+Site: St. Mary Catholic High School
+Subsite: McClone Gymnasium
+</description>
+      <pubDate>Tue, 22 Dec 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-105640994</guid>
+    </item>
+    <item>
       <title>[Sports] Boys JV2 Basketball vs Manitowoc Lincoln High School — Tue Dec 22, 2026 05:40 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Dec 22, 2026 06:55 PM CST | Sport: Basketball
 Level: Boys JV2
@@ -1887,6 +1931,159 @@ Subsite: Gym - Main Court (1-3)
       <description>No additional details.</description>
       <pubDate>Fri, 15 Jan 2027 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17696218@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball vs De Pere High School - JV3 — Fri Jan 15, 2027 04:15 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Jan 15, 2027 05:30 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV3
+Site: Bay Port High School
+Subsite: Gym - Court 4
+</description>
+      <pubDate>Fri, 15 Jan 2027 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101214661</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV2 Basketball @ De Pere High School — Fri Jan 15, 2027 04:15 PM CST</title>
+      <description>Location:  1700 Chicago Street, De Pere WI  54115 | Ends: Fri Jan 15, 2027 05:30 PM CST | Sport: Basketball
+Level: Girls JV2
+Team: Bay Port High School
+Site: De Pere High School
+Subsite: Fieldhouse Main Court
+</description>
+      <pubDate>Fri, 15 Jan 2027 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-105338200</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Hockey vs Brookfield Glacier Girls Hockey — Fri Jan 15, 2027 05:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Fri Jan 15, 2027 07:00 PM CST | Sport: Hockey
+Level: Girls JV
+Team: Bay Area Ice Bears
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Fri, 15 Jan 2027 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99115163</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV2 Basketball vs De Pere High School — Fri Jan 15, 2027 05:40 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Jan 15, 2027 07:40 PM CST | Sport: Basketball
+Level: Boys JV2
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 4
+</description>
+      <pubDate>Fri, 15 Jan 2027 23:40:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99650064</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball vs De Pere High School - JV1 — Fri Jan 15, 2027 05:45 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Jan 15, 2027 07:45 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Bay Port High School
+Subsite: Gym - Court 1
+</description>
+      <pubDate>Fri, 15 Jan 2027 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99650070</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Basketball @ De Pere High School — Fri Jan 15, 2027 05:45 PM CST</title>
+      <description>Location:  1700 Chicago Street, De Pere WI  54115 | Ends: Fri Jan 15, 2027 07:45 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: De Pere High School
+Subsite: Fieldhouse Main Court
+</description>
+      <pubDate>Fri, 15 Jan 2027 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654298</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Basketball vs De Pere High School — Fri Jan 15, 2027 07:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Jan 15, 2027 09:00 PM CST | Sport: Basketball
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 1
+</description>
+      <pubDate>Sat, 16 Jan 2027 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654016</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Basketball @ De Pere High School — Fri Jan 15, 2027 07:00 PM CST</title>
+      <description>Location:  1700 Chicago Street, De Pere WI  54115 | Ends: Fri Jan 15, 2027 09:00 PM CST | Sport: Basketball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: De Pere High School
+Subsite: Fieldhouse Main Court
+</description>
+      <pubDate>Sat, 16 Jan 2027 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654722</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Hockey vs Brookfield Glacier Girls Hockey — Fri Jan 15, 2027 07:00 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Fri Jan 15, 2027 09:00 PM CST | Sport: Hockey
+Level: Girls Varsity
+Team: Bay Area Ice Bears
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Sat, 16 Jan 2027 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99115162</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey @ Hancock Public Schools — Sat Jan 16, 2027 08:30 AM CST</title>
+      <description>Location:  1500 Birch St., Hancock MI  49930 | Ends: Sat Jan 16, 2027 10:30 AM CST | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Houghton County Arena
+Subsite: Houghton County Arena
+</description>
+      <pubDate>Sat, 16 Jan 2027 14:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101112435</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Wrestling @ Muskego High School — Sat Jan 16, 2027 09:15 AM CST</title>
+      <description>Location:  W185 S8750 Racine Ave, Muskego WI  53150 | Ends: Sat Jan 16, 2027 01:15 PM CST | Sport: Wrestling
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Muskego High School
+Subsite: Indoor Practice Facility
+</description>
+      <pubDate>Sat, 16 Jan 2027 15:15:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101252009</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Wrestling @ Wausau West High School — Sat Jan 16, 2027 09:30 AM CST</title>
+      <description>Location:  1200 W Wausau Avenue, Wausau WI  54401 | Ends: Sat Jan 16, 2027 06:30 PM CST | Sport: Wrestling
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Wausau West High School
+Subsite: Fieldhouse - All
+</description>
+      <pubDate>Sat, 16 Jan 2027 15:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102393585</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Swimming @ Fond Du Lac High School — Sat Jan 16, 2027 10:00 AM CST</title>
+      <description>Location:  100 W 9th St., FOND DU LAC WI  54935 | Ends: Sat Jan 16, 2027 06:00 PM CST | Sport: Swimming
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Aquatic Center (Fond du Lac)
+Subsite: Aquatic Center (Fond du Lac)
+</description>
+      <pubDate>Sat, 16 Jan 2027 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-103155107</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey @ Hancock Public Schools — Sat Jan 16, 2027 11:00 AM CST</title>
+      <description>Location:  1500 Birch St., Hancock MI  49930 | Ends: Sat Jan 16, 2027 02:00 PM CST | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Houghton County Arena
+</description>
+      <pubDate>Sat, 16 Jan 2027 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101112377</guid>
     </item>
   </channel>
 </rss>
