@@ -4,29 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Tue, 17 Nov 2026 20:45:12 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Girls JV Basketball vs Appleton East High School — Tue Nov 17, 2026 05:45 PM CST</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Nov 17, 2026 07:00 PM CST | Sport: Basketball
-Level: Girls JV
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Gym - Main Court (1-3)
-</description>
-      <pubDate>Tue, 17 Nov 2026 23:45:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-98961974</guid>
-    </item>
-    <item>
-      <title>[Sports] Girls Varsity Basketball vs Appleton East High School — Tue Nov 17, 2026 07:00 PM CST</title>
-      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Nov 17, 2026 08:30 PM CST | Sport: Basketball
-Level: Girls Varsity
-Team: Bay Port High School
-Site: Bay Port High School
-Subsite: Gym - Main Court (1-3)
-</description>
-      <pubDate>Wed, 18 Nov 2026 01:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-98961911</guid>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 20:21:47 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Pirate Time Homeroom — Wed Nov 18, 2026 (all day)</title>
       <description>No additional details.</description>
@@ -2084,6 +2062,28 @@ Site: Houghton County Arena
 </description>
       <pubDate>Sat, 16 Jan 2027 17:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101112377</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Hockey vs Arrowhead High School — Sat Jan 16, 2027 05:00 PM CST</title>
+      <description>Location:  800 North Ave, Hartland WI  53029 | Ends: Sat Jan 16, 2027 07:00 PM CST | Sport: Hockey
+Level: Girls JV
+Team: Bay Area Ice Bears
+Site: Arrowhead High School
+Subsite: Mullet Ice Center
+</description>
+      <pubDate>Sat, 16 Jan 2027 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-103880374</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Hockey vs Arrowhead High School — Sat Jan 16, 2027 07:00 PM CST</title>
+      <description>Location:  800 North Ave, Hartland WI  53029 | Ends: Sat Jan 16, 2027 09:00 PM CST | Sport: Hockey
+Level: Girls Varsity
+Team: Bay Area Ice Bears
+Site: Arrowhead High School
+Subsite: Mullet Ice Center
+</description>
+      <pubDate>Sun, 17 Jan 2027 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-103880372</guid>
     </item>
   </channel>
 </rss>
