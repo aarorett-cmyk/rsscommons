@@ -4,51 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 19:56:59 +0000</lastBuildDate>
-    <item>
-      <title>[Sports] Boys JV Hockey @ Neenah High School — Fri Nov 20, 2026 04:30 PM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 08:30 PM CST | Sport: Hockey
-Level: Boys JV
-Team: Bay Area Storm
-Site: Champion Center
-Subsite: Champion Center Grand Chute
-</description>
-      <pubDate>Fri, 20 Nov 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-104885249</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Hockey vs Stevens Point Area Senior High — Fri Nov 20, 2026 04:30 PM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 08:30 PM CST | Sport: Hockey
-Level: Boys Varsity
-Team: Bay Area Storm
-Site: Champion Center
-Subsite: Seasonal Rink
-</description>
-      <pubDate>Fri, 20 Nov 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-105305362</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Hockey vs Stevens Point Area Senior High — Fri Nov 20, 2026 04:30 PM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 08:30 PM CST | Sport: Hockey
-Level: Boys Varsity
-Team: Bay Area Storm
-Site: Champion Center
-Subsite: Main Rink
-</description>
-      <pubDate>Fri, 20 Nov 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-105305370</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys Varsity Hockey @ Neenah High School — Fri Nov 20, 2026 04:45 PM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Ends: Fri Nov 20, 2026 08:45 PM CST | Sport: Hockey
-Level: Boys Varsity
-Team: Bay Area Storm
-Site: Champion Center
-Subsite: Champion Center Grand Chute
-</description>
-      <pubDate>Fri, 20 Nov 2026 22:45:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-104885194</guid>
-    </item>
+    <lastBuildDate>Sat, 21 Nov 2026 19:02:12 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls JV2 Basketball @ Manitowoc Lutheran High School — Tue Nov 24, 2026 04:30 PM CST</title>
       <description>Location:  4045 Lancer Cir, Manitowoc WI  54220 | Ends: Tue Nov 24, 2026 05:45 PM CST | Sport: Basketball
@@ -317,16 +273,6 @@ Subsite: Fieldhouse
       <guid isPermaLink="false">17695806@bayport.hssdschools.org</guid>
     </item>
     <item>
-      <title>[Sports] Girls Varsity Wrestling — Thu Dec 03, 2026 05:00 PM CST</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Thu Dec 03, 2026 08:30 PM CST | Sport: Wrestling
-Level: Girls Varsity
-Team: Bay Port High School
-Site: TBA
-</description>
-      <pubDate>Thu, 03 Dec 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-98068981</guid>
-    </item>
-    <item>
       <title>[Sports] Girls Varsity Wrestling @ Bonduel High School — Thu Dec 03, 2026 05:00 PM CST</title>
       <description>Location:  400 Green Bay Street Po Box 310, Bonduel WI  54107 | Ends: Thu Dec 03, 2026 08:30 PM CST | Sport: Wrestling
 Level: Girls Varsity
@@ -336,6 +282,16 @@ Subsite: High School Gym
 </description>
       <pubDate>Thu, 03 Dec 2026 23:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-105565233</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Wrestling — Thu Dec 03, 2026 05:00 PM CST</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Thu Dec 03, 2026 08:30 PM CST | Sport: Wrestling
+Level: Girls Varsity
+Team: Bay Port High School
+Site: TBA
+</description>
+      <pubDate>Thu, 03 Dec 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-98068981</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Wrestling vs Neenah High School — Thu Dec 03, 2026 06:00 PM CST</title>
@@ -1262,17 +1218,6 @@ Subsite: Rink 4
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
-      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
-Level: Boys JV
-Team: Bay Area Storm
-Site: Champion Center
-Subsite: Main Rink
-</description>
-      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101110946</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
       <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
@@ -1281,6 +1226,17 @@ Subsite: TBA
 </description>
       <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101585570</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
+      <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: Champion Center
+Subsite: Main Rink
+</description>
+      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101110946</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
@@ -2055,6 +2011,111 @@ Subsite: Mullet Ice Center
       <description>No additional details.</description>
       <pubDate>Mon, 18 Jan 2027 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17695297@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Coed Varsity Hockey - Adapted @ Appleton North High School — Tue Jan 19, 2027 04:00 PM CST</title>
+      <description>Location:  5000 North Ballard Road, Appleton WI  54913 | Ends: Tue Jan 19, 2027 05:30 PM CST | Sport: Hockey - Adapted
+Level: Coed Varsity
+Team: Bay Port High School
+Site: Appleton North High School
+Subsite: Fieldhouse- Main Gym
+</description>
+      <pubDate>Tue, 19 Jan 2027 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102494400</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball @ Notre Dame de la Baie Academy High School - JV3 — Tue Jan 19, 2027 04:15 PM CST</title>
+      <description>Location:  610 Maryhill Dr, Green Bay WI  54303 | Ends: Tue Jan 19, 2027 05:15 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV3
+Site: Notre Dame De La Baie Academy
+Subsite: Alumni Gym
+</description>
+      <pubDate>Tue, 19 Jan 2027 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100692091</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Swimming @ Pulaski High School — Tue Jan 19, 2027 05:30 PM CST</title>
+      <description>Location:  911 South St. Augustine Street, Pulaski WI  54162 | Ends: Tue Jan 19, 2027 07:30 PM CST | Sport: Swimming
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Pulaski Aquatics Center
+Subsite: Pool
+</description>
+      <pubDate>Tue, 19 Jan 2027 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99591418</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV2 Basketball @ Notre Dame de la Baie Academy High School — Tue Jan 19, 2027 05:40 PM CST</title>
+      <description>Location:  610 Maryhill Dr, Green Bay WI  54303 | Ends: Tue Jan 19, 2027 06:55 PM CST | Sport: Basketball
+Level: Boys JV2
+Team: Bay Port High School
+Site: Notre Dame De La Baie Academy
+Subsite: Alumni Gym
+</description>
+      <pubDate>Tue, 19 Jan 2027 23:40:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99650076</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV2 Basketball vs Oconto Falls High School — Tue Jan 19, 2027 05:40 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Jan 19, 2027 07:40 PM CST | Sport: Basketball
+Level: Girls JV2
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 4
+</description>
+      <pubDate>Tue, 19 Jan 2027 23:40:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654305</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball @ Notre Dame de la Baie Academy High School - JV1 — Tue Jan 19, 2027 05:45 PM CST</title>
+      <description>Location:  610 Maryhill Dr, Green Bay WI  54303 | Ends: Tue Jan 19, 2027 07:00 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Notre Dame De La Baie Academy
+Subsite: Triton Center Main
+</description>
+      <pubDate>Tue, 19 Jan 2027 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99650081</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Basketball vs Notre Dame de la Baie Academy High School — Tue Jan 19, 2027 05:45 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Jan 19, 2027 07:45 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 1
+</description>
+      <pubDate>Tue, 19 Jan 2027 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654310</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Basketball @ Notre Dame de la Baie Academy High School — Tue Jan 19, 2027 07:00 PM CST</title>
+      <description>Location:  610 Maryhill Dr, Green Bay WI  54303 | Ends: Tue Jan 19, 2027 08:15 PM CST | Sport: Basketball
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Notre Dame De La Baie Academy
+Subsite: Triton Center Main
+</description>
+      <pubDate>Wed, 20 Jan 2027 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654024</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Basketball vs Notre Dame de la Baie Academy High School — Tue Jan 19, 2027 07:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Tue Jan 19, 2027 09:00 PM CST | Sport: Basketball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 1
+</description>
+      <pubDate>Wed, 20 Jan 2027 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654728</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Pirate Time Homeroom — Wed Jan 20, 2027 (all day)</title>
+      <description>No additional details.</description>
+      <pubDate>Wed, 20 Jan 2027 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17695421@bayport.hssdschools.org</guid>
     </item>
   </channel>
 </rss>
