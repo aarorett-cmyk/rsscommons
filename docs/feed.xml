@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 19:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:45:12 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls JV2 Basketball @ Manitowoc Lutheran High School — Tue Nov 24, 2026 04:30 PM CST</title>
       <description>Location:  4045 Lancer Cir, Manitowoc WI  54220 | Ends: Tue Nov 24, 2026 05:45 PM CST | Sport: Basketball
@@ -2122,6 +2122,127 @@ Subsite: Gym - Court 1
       <description>No additional details.</description>
       <pubDate>Thu, 21 Jan 2027 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17695903@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV2 Basketball — Thu Jan 21, 2027 05:40 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Thu Jan 21, 2027 07:40 PM CST | Sport: Basketball
+Level: Girls JV2
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 4
+</description>
+      <pubDate>Thu, 21 Jan 2027 23:40:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654315</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Basketball vs Sheboygan North High School — Thu Jan 21, 2027 05:45 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Thu Jan 21, 2027 07:45 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 1
+</description>
+      <pubDate>Thu, 21 Jan 2027 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654316</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Wrestling @ West De Pere High School - JV1 — Thu Jan 21, 2027 06:00 PM CST</title>
+      <description>Location:  665 Grant St, De Pere WI  54115 | Ends: Thu Jan 21, 2027 08:00 PM CST | Sport: Wrestling
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: West De Pere High School
+Subsite: Fieldhouse
+</description>
+      <pubDate>Fri, 22 Jan 2027 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99592832</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Wrestling @ West De Pere High School — Thu Jan 21, 2027 06:30 PM CST</title>
+      <description>Location:  665 Grant St, De Pere WI  54115 | Ends: Thu Jan 21, 2027 08:30 PM CST | Sport: Wrestling
+Level: Boys Varsity
+Team: Bay Port High School
+Site: West De Pere High School
+Subsite: Fieldhouse
+</description>
+      <pubDate>Fri, 22 Jan 2027 00:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99592880</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Basketball vs Sheboygan North High School — Thu Jan 21, 2027 07:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Thu Jan 21, 2027 09:00 PM CST | Sport: Basketball
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Court 1
+</description>
+      <pubDate>Fri, 22 Jan 2027 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654732</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey vs Notre Dame de la Baie Academy High School — Fri Jan 22, 2027 12:01 AM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Cornerstone Community Center
+Subsite: Rink 3
+</description>
+      <pubDate>Fri, 22 Jan 2027 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104027717</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Middle School Wrestling vs Amherst High School — Fri Jan 22, 2027 05:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Jan 22, 2027 09:00 PM CST | Sport: Wrestling
+Level: Girls Middle School
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym - Main Court (1-3)
+</description>
+      <pubDate>Fri, 22 Jan 2027 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104795193</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Wrestling vs Valders High School — Fri Jan 22, 2027 05:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Jan 22, 2027 09:00 PM CST | Sport: Wrestling
+Level: Girls Varsity
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym All Courts
+</description>
+      <pubDate>Fri, 22 Jan 2027 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99976624</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Hockey vs University School of Milwaukee High School — Fri Jan 22, 2027 05:30 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Fri Jan 22, 2027 07:30 PM CST | Sport: Hockey
+Level: Girls Varsity
+Team: Bay Area Ice Bears
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Fri, 22 Jan 2027 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99073974</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV2 Basketball @ Sheboygan North High School — Fri Jan 22, 2027 05:40 PM CST</title>
+      <description>Location:  2926 North 10th Street, Sheboygan WI  53083 | Ends: Fri Jan 22, 2027 07:40 PM CST | Sport: Basketball
+Level: Boys JV2
+Team: Bay Port High School
+Site: Sheboygan North High School
+Subsite: Deso Gym
+</description>
+      <pubDate>Fri, 22 Jan 2027 23:40:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99650088</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball @ Sheboygan North High School — Fri Jan 22, 2027 05:45 PM CST</title>
+      <description>Location:  2926 North 10th Street, Sheboygan WI  53083 | Ends: Fri Jan 22, 2027 07:45 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Sheboygan North High School
+Subsite: Fieldhouse
+</description>
+      <pubDate>Fri, 22 Jan 2027 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99650093</guid>
     </item>
   </channel>
 </rss>
