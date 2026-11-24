@@ -4,7 +4,7 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 23:45:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 22:16:52 +0000</lastBuildDate>
     <item>
       <title>[Sports] Girls JV2 Basketball @ Manitowoc Lutheran High School — Tue Nov 24, 2026 04:30 PM CST</title>
       <description>Location:  4045 Lancer Cir, Manitowoc WI  54220 | Ends: Tue Nov 24, 2026 05:45 PM CST | Sport: Basketball
@@ -271,6 +271,17 @@ Subsite: Fieldhouse
       <description>No additional details.</description>
       <pubDate>Thu, 03 Dec 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17695806@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball @ Notre Dame de la Baie Academy High School - JV3 — Thu Dec 03, 2026 04:15 PM CST</title>
+      <description>Location:  610 Maryhill Dr, Green Bay WI  54303 | Ends: Thu Dec 03, 2026 05:15 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV3
+Site: Notre Dame De La Baie Academy
+Subsite: Alumni Gym
+</description>
+      <pubDate>Thu, 03 Dec 2026 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99100958</guid>
     </item>
     <item>
       <title>[Sports] Girls Varsity Wrestling — Thu Dec 03, 2026 05:00 PM CST</title>
@@ -1218,17 +1229,6 @@ Subsite: Rink 4
     </item>
     <item>
       <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Sport: Hockey
-Level: Boys JV
-Team: Bay Area Storm
-Site: TBA
-Subsite: TBA
-</description>
-      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101585570</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
       <description>Location:  5000 W Champion Drive, Grand Chute WI  54913 | Sport: Hockey
 Level: Boys JV
 Team: Bay Area Storm
@@ -1237,6 +1237,17 @@ Subsite: Main Rink
 </description>
       <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">GP-101110946</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Sport: Hockey
+Level: Boys JV
+Team: Bay Area Storm
+Site: TBA
+Subsite: TBA
+</description>
+      <pubDate>Mon, 28 Dec 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-101585570</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey — Mon Dec 28, 2026 12:01 AM CST</title>
@@ -2190,7 +2201,7 @@ Subsite: Rink 3
       <guid isPermaLink="false">GP-104027717</guid>
     </item>
     <item>
-      <title>[Sports] Girls Middle School Wrestling vs Amherst High School — Fri Jan 22, 2027 05:00 PM CST</title>
+      <title>[Sports] Girls Middle School Wrestling vs Peshtigo High School — Fri Jan 22, 2027 05:00 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Jan 22, 2027 09:00 PM CST | Sport: Wrestling
 Level: Girls Middle School
 Team: Bay Port High School
@@ -2201,7 +2212,7 @@ Subsite: Gym - Main Court (1-3)
       <guid isPermaLink="false">GP-104795193</guid>
     </item>
     <item>
-      <title>[Sports] Girls Varsity Wrestling vs Valders High School — Fri Jan 22, 2027 05:00 PM CST</title>
+      <title>[Sports] Girls Varsity Wrestling vs New Berlin West High School — Fri Jan 22, 2027 05:00 PM CST</title>
       <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Fri Jan 22, 2027 09:00 PM CST | Sport: Wrestling
 Level: Girls Varsity
 Team: Bay Port High School
@@ -2243,6 +2254,126 @@ Subsite: Fieldhouse
 </description>
       <pubDate>Fri, 22 Jan 2027 23:45:00 +0000</pubDate>
       <guid isPermaLink="false">GP-99650093</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Basketball @ Sheboygan North High School — Fri Jan 22, 2027 07:00 PM CST</title>
+      <description>Location:  2926 North 10th Street, Sheboygan WI  53083 | Ends: Fri Jan 22, 2027 09:00 PM CST | Sport: Basketball
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Sheboygan North High School
+Subsite: Fieldhouse
+</description>
+      <pubDate>Sat, 23 Jan 2027 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99654030</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Hockey vs University School of Milwaukee High School — Fri Jan 22, 2027 07:30 PM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Ends: Fri Jan 22, 2027 09:30 PM CST | Sport: Hockey
+Level: Girls JV
+Team: Bay Area Ice Bears
+Site: Cornerstone Community Center
+Subsite: Rink 1
+</description>
+      <pubDate>Sat, 23 Jan 2027 01:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-99073975</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Hockey vs Notre Dame de la Baie Academy High School — Sat Jan 23, 2027 12:01 AM CST</title>
+      <description>Location:  1640 Fernando Dr, De Pere WI  54115 | Sport: Hockey
+Level: Boys Varsity
+Team: Bay Area Storm
+Site: Cornerstone Community Center
+Subsite: Rink 3
+</description>
+      <pubDate>Sat, 23 Jan 2027 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104027736</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Wrestling vs Two Rivers High School — Sat Jan 23, 2027 08:00 AM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Sat Jan 23, 2027 12:00 PM CST | Sport: Wrestling
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Bay Port High School
+Subsite: Gym All Courts
+</description>
+      <pubDate>Sat, 23 Jan 2027 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100000158</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Hockey @ Lakeshore Lightning — Sat Jan 23, 2027 10:45 AM CST</title>
+      <description>Location:  5505 W. Pioneer Rd, Mequon WI  53097 | Ends: Sat Jan 23, 2027 12:45 PM CST | Sport: Hockey
+Level: Girls JV
+Team: Bay Area Ice Bears
+Site: Ozaukee Ice Center
+Subsite: Ozaukee Ice Center
+</description>
+      <pubDate>Sat, 23 Jan 2027 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100209192</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Middle School Wrestling vs Shiocton High School — Sat Jan 23, 2027 12:00 PM CST</title>
+      <description>Location:  2710 Lineville Rd, Green Bay WI  54313 | Ends: Sat Jan 23, 2027 04:00 PM CST | Sport: Wrestling
+Level: Boys Middle School
+Team: Bay Port High School
+Site: Bay Port High School
+Subsite: Gym All Courts
+</description>
+      <pubDate>Sat, 23 Jan 2027 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-104794868</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Swimming @ Coop - Eau Claire Memorial High School &amp; Eau Claire North High School — Sat Jan 23, 2027 12:00 PM CST</title>
+      <description>Location:  2225 Keith Street, Eau Claire WI  54701 | Ends: Sat Jan 23, 2027 03:00 PM CST | Sport: Swimming
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Eau Claire Memorial High School
+</description>
+      <pubDate>Sat, 23 Jan 2027 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102760302</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Hockey @ Lakeshore Lightning  — Sat Jan 23, 2027 01:00 PM CST</title>
+      <description>Location:  5505 W. Pioneer Rd, Mequon WI  53097 | Ends: Sat Jan 23, 2027 03:00 PM CST | Sport: Hockey
+Level: Girls Varsity
+Team: Bay Area Ice Bears
+Site: Ozaukee Ice Center
+Subsite: Ozaukee Ice Center
+</description>
+      <pubDate>Sat, 23 Jan 2027 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100208151</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV Basketball @ Kettle Moraine High School — Sat Jan 23, 2027 01:30 PM CST</title>
+      <description>Location:  349 N. Oak Crest Dr., Wales WI  53183 | Ends: Sat Jan 23, 2027 02:45 PM CST | Sport: Basketball
+Level: Boys JV
+Team: Bay Port High School - JV1
+Site: Kettle Moraine High School
+Subsite: Gym
+</description>
+      <pubDate>Sat, 23 Jan 2027 19:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102803771</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys JV2 Basketball @ Kettle Moraine High School — Sat Jan 23, 2027 01:30 PM CST</title>
+      <description>Location:  349 N. Oak Crest Dr., Wales WI  53183 | Ends: Sat Jan 23, 2027 02:45 PM CST | Sport: Basketball
+Level: Boys JV2
+Team: Bay Port High School
+Site: Kettle Moraine High School
+Subsite: Court #2
+</description>
+      <pubDate>Sat, 23 Jan 2027 19:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102803774</guid>
+    </item>
+    <item>
+      <title>[Sports] Boys Varsity Basketball @ Kettle Moraine High School — Sat Jan 23, 2027 03:00 PM CST</title>
+      <description>Location:  349 N. Oak Crest Dr., Wales WI  53183 | Ends: Sat Jan 23, 2027 04:30 PM CST | Sport: Basketball
+Level: Boys Varsity
+Team: Bay Port High School
+Site: Kettle Moraine High School
+Subsite: Gym
+</description>
+      <pubDate>Sat, 23 Jan 2027 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-102803765</guid>
     </item>
   </channel>
 </rss>
