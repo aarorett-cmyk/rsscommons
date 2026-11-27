@@ -4,29 +4,12 @@
     <title>My Merged Calendar Feed</title>
     <link></link>
     <description>Auto-generated daily from the Bay Port calendar and Arbiter sports schedule.</description>
-    <lastBuildDate>Thu, 26 Nov 2026 21:20:55 +0000</lastBuildDate>
-    <item>
-      <title>[Bay Port] Thanksgiving Recess — Thu Nov 26, 2026 (all day)</title>
-      <description>No additional details.</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0600</pubDate>
-      <guid isPermaLink="false">17696102@bayport.hssdschools.org</guid>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 21:01:48 +0000</lastBuildDate>
     <item>
       <title>[Bay Port] Thanksgiving Recess — Fri Nov 27, 2026 (all day)</title>
       <description>No additional details.</description>
       <pubDate>Fri, 27 Nov 2026 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">17695453@bayport.hssdschools.org</guid>
-    </item>
-    <item>
-      <title>[Sports] Boys JV Hockey @ Waunakee High School — Fri Nov 27, 2026 12:00 PM CST</title>
-      <description>Location:  2100 W Fairy Chasm Road, Milwaukee AL  53217 | Ends: Fri Nov 27, 2026 02:00 PM CST | Sport: Hockey
-Level: Boys JV
-Team: Bay Area Storm
-Site: Polly and Henry Uihlein Ice Arena
-Subsite: Uihlein Ice Arena
-</description>
-      <pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-101109924</guid>
     </item>
     <item>
       <title>[Sports] Boys Varsity Hockey @ Waunakee High School — Fri Nov 27, 2026 02:00 PM CST</title>
@@ -184,16 +167,6 @@ Subsite: Alumni Gym
       <guid isPermaLink="false">GP-99100958</guid>
     </item>
     <item>
-      <title>[Sports] Girls Varsity Wrestling — Thu Dec 03, 2026 05:00 PM CST</title>
-      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Thu Dec 03, 2026 08:30 PM CST | Sport: Wrestling
-Level: Girls Varsity
-Team: Bay Port High School
-Site: TBA
-</description>
-      <pubDate>Thu, 03 Dec 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GP-98068981</guid>
-    </item>
-    <item>
       <title>[Sports] Girls Varsity Wrestling @ Bonduel High School — Thu Dec 03, 2026 05:00 PM CST</title>
       <description>Location:  400 Green Bay Street Po Box 310, Bonduel WI  54107 | Ends: Thu Dec 03, 2026 08:30 PM CST | Sport: Wrestling
 Level: Girls Varsity
@@ -203,6 +176,16 @@ Subsite: High School Gym
 </description>
       <pubDate>Thu, 03 Dec 2026 23:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-105565233</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls Varsity Wrestling — Thu Dec 03, 2026 05:00 PM CST</title>
+      <description>Location:  (unknown) (unknown), (unknown) (unknown)  (unknown) | Ends: Thu Dec 03, 2026 08:30 PM CST | Sport: Wrestling
+Level: Girls Varsity
+Team: Bay Port High School
+Site: TBA
+</description>
+      <pubDate>Thu, 03 Dec 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-98068981</guid>
     </item>
     <item>
       <title>[Sports] Boys JV Wrestling vs Neenah High School — Thu Dec 03, 2026 06:00 PM CST</title>
@@ -2274,6 +2257,29 @@ Subsite: Gym
 </description>
       <pubDate>Sat, 23 Jan 2027 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">GP-102803765</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Curriculum Fair — Mon Jan 25, 2027 04:00 PM CST</title>
+      <description>Ends: Mon Jan 25, 2027 06:00 PM CST</description>
+      <pubDate>Mon, 25 Jan 2027 16:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17695957@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Bay Port] Parent Teacher Conferences (9-12) — Mon Jan 25, 2027 04:00 PM CST</title>
+      <description>Ends: Mon Jan 25, 2027 07:30 PM CST</description>
+      <pubDate>Mon, 25 Jan 2027 16:00:00 -0600</pubDate>
+      <guid isPermaLink="false">17695517@bayport.hssdschools.org</guid>
+    </item>
+    <item>
+      <title>[Sports] Girls JV Basketball @ Oconto High School — Mon Jan 25, 2027 05:30 PM CST</title>
+      <description>Location:  1717 Superior Ave, Oconto WI  54153 | Ends: Mon Jan 25, 2027 06:30 PM CST | Sport: Basketball
+Level: Girls JV
+Team: Bay Port High School
+Site: Oconto High School
+Subsite: Gym
+</description>
+      <pubDate>Mon, 25 Jan 2027 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">GP-100164987</guid>
     </item>
   </channel>
 </rss>
